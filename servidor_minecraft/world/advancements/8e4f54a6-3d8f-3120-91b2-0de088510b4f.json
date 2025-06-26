@@ -4697,6 +4697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:48:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 21:42:40 +0000"
@@ -4778,6 +4784,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-26 22:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:48:58 +0000"
     },
     "done": true
   },
@@ -4898,6 +4910,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-06-26 22:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:48:58 +0000"
     },
     "done": true
   },

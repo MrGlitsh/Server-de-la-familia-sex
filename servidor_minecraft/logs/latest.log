@@ -680,3 +680,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 22:43:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
 [26Jun2025 22:43:23.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
 [26Jun2025 22:45:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [Eye of the Tiger]
+[26Jun2025 22:48:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [The Power of the Sun]
+[26Jun2025 22:48:30.266] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:48:30.275] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:49:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Husk
+[26Jun2025 22:50:19.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Rusted Root]
+[26Jun2025 22:51:23.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[26Jun2025 22:51:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[26Jun2025 22:51:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[26Jun2025 22:53:49.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to 65.500000, 66.000000, 122.500000]
