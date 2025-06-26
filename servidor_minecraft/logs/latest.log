@@ -689,3 +689,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 22:51:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
 [26Jun2025 22:51:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
 [26Jun2025 22:53:49.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to 65.500000, 66.000000, 122.500000]
+[26Jun2025 23:08:36.048] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 23:08:36.050] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 23:09:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Guster
+[26Jun2025 23:14:52.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe

@@ -5786,3 +5786,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 22:53:49.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to 65.500000, 66.000000, 122.500000]
 [26Jun2025 22:55:33.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 22:55:33.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:00:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:00:33.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:05:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:05:33.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:06:21.877] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[26Jun2025 23:06:43.327] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[26Jun2025 23:08:36.048] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 23:08:36.050] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 23:09:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Guster
+[26Jun2025 23:09:35.995] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:87, y:67, z:377, dim:minecraft:overworld]
+[26Jun2025 23:09:39.322] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750979379296
+[26Jun2025 23:10:33.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:10:33.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:14:52.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[26Jun2025 23:15:33.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:15:33.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:20:33.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:20:33.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:23:06.767] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[26Jun2025 23:23:06.767] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdb70305$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[26Jun2025 23:25:33.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:25:33.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
