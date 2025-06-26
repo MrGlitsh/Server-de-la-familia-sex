@@ -5062,3 +5062,50 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 22:05:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
 [26Jun2025 22:05:33.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 22:05:33.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 22:06:31.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Magic Writing]
+[26Jun2025 22:06:48.528] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:06:48.537] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:07:15.275] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:07:15.287] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:07:23.926] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:07:23.935] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 22:07:23.936] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:07:23.940] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 22:07:35.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Hoglin
+[26Jun2025 22:07:36.043] [Server thread/DEBUG] [tombstone/]: A new grave of the player CHUCHIXD was created at position [x:-3845, y:211, z:9766, dim:minecraft:overworld]
+[26Jun2025 22:07:36.685] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750975656683
+[26Jun2025 22:08:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh burned to death
+[26Jun2025 22:08:23.935] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-3853, y:210, z:9771, dim:minecraft:overworld]
+[26Jun2025 22:08:26.896] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750975706878
+[26Jun2025 22:08:27.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! 1.1692067734179545,-146.0,2.064317809878048
+[26Jun2025 22:08:28.699] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:08:28.701] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:08:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -3851.500000, 210.500000, 9771.500000]
+[26Jun2025 22:08:42.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[26Jun2025 22:08:54.138] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:08:54.142] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:09:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD hit the ground too hard
+[26Jun2025 22:09:06.295] [Server thread/DEBUG] [tombstone/]: A new grave of the player CHUCHIXD was created at position [x:-3838, y:211, z:9766, dim:minecraft:overworld]
+[26Jun2025 22:09:06.932] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750975746921
+[26Jun2025 22:10:10.329] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:10:10.331] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:10:23.076] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:10:23.083] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:10:32.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 22:10:33.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:10:33.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 22:11:27.426] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:11:27.434] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:11:44.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Spooky Scary Skeleton]
+[26Jun2025 22:12:15.184] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:12:15.187] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:12:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was shot by Wither Skeleton
+[26Jun2025 22:12:30.981] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-3843, y:211, z:9764, dim:minecraft:overworld]
+[26Jun2025 22:12:32.148] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750975952148
+[26Jun2025 22:13:17.931] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:13:17.933] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:13:30.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 22:15:27.830] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 22:15:27.833] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 22:15:33.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:15:33.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
