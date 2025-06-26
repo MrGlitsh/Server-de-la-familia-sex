@@ -671,3 +671,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 22:33:58.541] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [26Jun2025 22:33:58.543] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [26Jun2025 22:34:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD burned to death
+[26Jun2025 22:40:42.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! -7.6113174351662565,-145.0,4.428816928450033
+[26Jun2025 22:41:20.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[26Jun2025 22:41:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[26Jun2025 22:42:19.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50283] logged in with entity id 38538 at (-3839.935089304959, 212.0, 9782.523312708736)
+[26Jun2025 22:42:19.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[26Jun2025 22:42:59.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[26Jun2025 22:43:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 22:43:23.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[26Jun2025 22:45:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [Eye of the Tiger]
