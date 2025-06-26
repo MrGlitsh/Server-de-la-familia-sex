@@ -3393,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 19:16:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2025-06-26 18:00:44 +0000"
@@ -3414,6 +3420,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-26 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 19:16:18 +0000"
     },
     "done": true
   },
