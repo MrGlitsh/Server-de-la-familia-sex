@@ -518,3 +518,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 20:21:27.813] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Jun2025 20:23:10.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:55737] logged in with entity id 58042 at (27.177789701488003, -19.0, 1430.603742103253)
 [26Jun2025 20:23:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[26Jun2025 20:46:57.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:54327] logged in with entity id 64718 at (-4405.399817287409, 64.0, 6311.859183558763)
+[26Jun2025 20:46:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[26Jun2025 20:47:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIXD> joseee
+[26Jun2025 20:47:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIXD> entra al dis
+[26Jun2025 20:47:20.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> Hola My brother
+[26Jun2025 20:47:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> Ya entra
+[26Jun2025 20:47:53.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIXD> dl
+[26Jun2025 20:48:24.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> dice que los osos pandas normalmente aprecian la vida pero no tienen la capacidad de cuidarse
+[26Jun2025 20:48:39.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> anda drogado
+[26Jun2025 20:50:15.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[26Jun2025 20:50:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
