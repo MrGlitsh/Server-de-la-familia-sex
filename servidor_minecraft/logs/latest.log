@@ -547,3 +547,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 21:31:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [Eye of the Tiger]
 [26Jun2025 21:31:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Mutual Aid]
 [26Jun2025 21:31:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has completed the challenge [Praise the Sun]
+[26Jun2025 21:36:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> era de chil
+[26Jun2025 21:38:13.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:57709] logged in with entity id 17770 at (-255.09380538676706, 65.0, 1163.7284567382928)
+[26Jun2025 21:38:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[26Jun2025 21:39:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [It's an Emu!!!]
+[26Jun2025 21:41:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[26Jun2025 21:42:15.478] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 21:42:15.481] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 21:42:24.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]

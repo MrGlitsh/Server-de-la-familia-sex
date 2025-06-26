@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-26 04:30:12 +0000",
       "minecraft:taiga": "2025-06-26 04:16:55 +0000",
+      "minecraft:eroded_badlands": "2025-06-26 21:39:51 +0000",
       "minecraft:cherry_grove": "2025-06-26 04:33:52 +0000",
       "minecraft:sunflower_plains": "2025-06-26 03:52:58 +0000",
       "minecraft:birch_forest": "2025-06-26 03:58:34 +0000",
@@ -5704,6 +5705,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-06-26 21:29:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-26 21:31:17 +0000"
     },
     "done": true
   },
