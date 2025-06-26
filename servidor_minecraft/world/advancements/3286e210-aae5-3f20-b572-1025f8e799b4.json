@@ -3938,5 +3938,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-26 23:48:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
