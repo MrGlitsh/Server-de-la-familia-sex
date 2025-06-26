@@ -695,3 +695,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 23:14:52.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [26Jun2025 23:30:17.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
 [26Jun2025 23:30:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[26Jun2025 23:38:14.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Cutest Predator]
+[26Jun2025 23:45:37.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50781] logged in with entity id 76928 at (-253.28040688359928, 112.0, 1423.804013965675)
+[26Jun2025 23:45:37.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[26Jun2025 23:47:13.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
