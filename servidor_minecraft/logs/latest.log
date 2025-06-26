@@ -501,3 +501,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 17:41:56.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53891] logged in with entity id 3714 at (-261.41343073907234, 110.0, 1409.748461639227)
 [26Jun2025 17:41:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
 [26Jun2025 17:51:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[26Jun2025 18:11:13.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[26Jun2025 18:11:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[26Jun2025 18:12:53.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:62090] logged in with entity id 12114 at (-258.90410674640816, 65.0, 1166.3917932032284)
+[26Jun2025 18:12:53.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[26Jun2025 18:22:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[26Jun2025 18:22:56.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[26Jun2025 18:27:15.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Bone Crusher]
