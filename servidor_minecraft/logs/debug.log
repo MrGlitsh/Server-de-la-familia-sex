@@ -5808,3 +5808,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 23:23:06.767] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdb70305$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [26Jun2025 23:25:33.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 23:25:33.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:30:17.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[26Jun2025 23:30:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[26Jun2025 23:30:33.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:30:33.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 23:35:33.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 23:35:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

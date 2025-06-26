@@ -693,3 +693,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 23:08:36.050] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
 [26Jun2025 23:09:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Guster
 [26Jun2025 23:14:52.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[26Jun2025 23:30:17.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[26Jun2025 23:30:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
