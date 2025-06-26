@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-06-24 02:46:53 +0000",
+      "minecraft:savanna_plateau": "2025-06-26 21:30:18 +0000",
       "minecraft:beach": "2025-06-24 21:24:16 +0000",
       "minecraft:sparse_jungle": "2025-06-24 02:53:29 +0000",
       "minecraft:river": "2025-06-24 02:51:32 +0000",
@@ -1727,7 +1728,8 @@
       "minecraft:cave_spider": "2025-06-24 20:19:18 +0000",
       "minecraft:enderman": "2025-06-26 17:49:08 +0000",
       "minecraft:zombie": "2025-06-24 03:43:52 +0000",
-      "minecraft:drowned": "2025-06-24 04:10:00 +0000"
+      "minecraft:drowned": "2025-06-24 04:10:00 +0000",
+      "minecraft:zombie_villager": "2025-06-26 21:20:36 +0000"
     },
     "done": false
   },
@@ -3561,6 +3563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-26 20:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-26 20:29:17 +0000"
@@ -3570,12 +3578,6 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-06-26 20:29:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-26 20:29:03 +0000"
     },
     "done": true
   },

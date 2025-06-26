@@ -41,11 +41,14 @@
       "minecraft:lukewarm_ocean": "2025-06-24 01:39:24 +0000",
       "minecraft:river": "2025-06-23 22:13:24 +0000",
       "minecraft:grove": "2025-06-26 04:20:59 +0000",
+      "minecraft:swamp": "2025-06-26 20:56:43 +0000",
+      "minecraft:cold_ocean": "2025-06-26 20:59:07 +0000",
       "minecraft:forest": "2025-06-23 22:34:26 +0000",
       "minecraft:desert": "2025-06-23 22:13:16 +0000",
       "minecraft:jungle": "2025-06-25 03:36:44 +0000",
       "minecraft:ocean": "2025-06-26 03:58:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 04:36:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-26 21:08:50 +0000",
       "minecraft:meadow": "2025-06-26 04:24:31 +0000",
       "minecraft:savanna": "2025-06-24 00:53:01 +0000",
       "minecraft:plains": "2025-06-23 22:42:09 +0000"
@@ -629,7 +632,9 @@
     "criteria": {
       "cooked_porkchop": "2025-06-23 22:27:57 +0000",
       "cooked_mutton": "2025-06-24 00:18:44 +0000",
+      "sweet_berries": "2025-06-26 20:54:37 +0000",
       "cooked_beef": "2025-06-23 22:38:42 +0000",
+      "beef": "2025-06-26 20:54:48 +0000",
       "cooked_cod": "2025-06-23 23:32:05 +0000",
       "rabbit": "2025-06-23 22:18:12 +0000",
       "pumpkin_pie": "2025-06-23 23:14:23 +0000",
@@ -4625,6 +4630,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-06-26 21:12:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-26 21:12:26 +0000"
     },
     "done": true
   },
