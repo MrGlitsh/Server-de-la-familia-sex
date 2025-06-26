@@ -5016,3 +5016,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 21:42:15.478] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [26Jun2025 21:42:15.481] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [26Jun2025 21:42:24.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 21:45:31.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 21:45:31.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 21:48:35.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> no hay mas nada
+[26Jun2025 21:50:31.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 21:50:31.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 21:52:15.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[26Jun2025 21:52:21.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> GRACIAS
+[26Jun2025 21:52:51.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of HEISENBERGXD) moved wrongly! 0.45722578614686427
+[26Jun2025 21:52:51.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JAGlitsh) moved wrongly! 0.7097584534967609
+[26Jun2025 21:52:51.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JAGlitsh) moved wrongly! 0.326325565296429
+[26Jun2025 21:53:11.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kingg9) moved wrongly! 0.41132950478095154
+[26Jun2025 21:53:12.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Kingg9) moved wrongly! 0.40288760657131206
+[26Jun2025 21:53:31.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[26Jun2025 21:53:31.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[26Jun2025 21:53:31.872] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
