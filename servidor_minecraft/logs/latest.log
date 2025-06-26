@@ -620,3 +620,54 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 22:13:30.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
 [26Jun2025 22:15:27.830] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [26Jun2025 22:15:27.833] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 22:15:57.931] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:15:57.933] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:16:04.131] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:16:04.133] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:16:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD hit the ground too hard
+[26Jun2025 22:16:14.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD burned to death
+[26Jun2025 22:16:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh burned to death
+[26Jun2025 22:16:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -3841.500000, 212.500000, 9782.500000]
+[26Jun2025 22:18:32.677] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:18:32.679] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:18:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD burned to death
+[26Jun2025 22:18:58.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:60811] logged in with entity id 28667 at (-256.32217046601795, 66.0, 1166.2688257157172)
+[26Jun2025 22:18:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[26Jun2025 22:19:03.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50108] logged in with entity id 28883 at (-3900.562805305445, 62.073264324665075, 9648.340322608998)
+[26Jun2025 22:19:03.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[26Jun2025 22:19:27.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> mamenme el pene
+[26Jun2025 22:19:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ay si
+[26Jun2025 22:19:32.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> preparados
+[26Jun2025 22:19:36.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> par ala aventura?
+[26Jun2025 22:19:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ando escuchando musica a tope no escucho na
+[26Jun2025 22:19:49.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[26Jun2025 22:19:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Ghost Riders In The Sky]
+[26Jun2025 22:20:22.840] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:20:22.843] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:20:34.439] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:20:34.442] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:21:17.032] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:21:17.043] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:21:24.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Wither Skeleton
+[26Jun2025 22:22:12.409] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:22:12.411] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:24:53.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 moved too quickly! 0.0,-16.72641648599857,-0.11753855625829601
+[26Jun2025 22:25:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[26Jun2025 22:25:51.961] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[26Jun2025 22:25:51.962] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[26Jun2025 22:25:52.641] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 22:25:52.648] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 22:26:00.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Kingg9]
+[26Jun2025 22:26:16.631] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 22:26:16.641] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 22:26:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was doomed to fall by Phantom
+[26Jun2025 22:27:18.618] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
+[26Jun2025 22:27:18.643] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
+[26Jun2025 22:27:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[26Jun2025 22:29:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 22:31:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[26Jun2025 22:32:28.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 22:33:38.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [A colorful sheep stays a sheep]
+[26Jun2025 22:33:58.541] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 22:33:58.543] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 22:34:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD burned to death
