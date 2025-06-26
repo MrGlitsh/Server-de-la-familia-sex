@@ -1201,7 +1201,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-06-24 03:37:45 +0000",
-      "minecraft:cow": "2025-06-24 03:37:40 +0000"
+      "minecraft:cow": "2025-06-24 03:37:40 +0000",
+      "minecraft:chicken": "2025-06-26 18:59:42 +0000"
     },
     "done": false
   },
@@ -3413,6 +3414,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-26 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-26 19:06:39 +0000"
     },
     "done": true
   },
