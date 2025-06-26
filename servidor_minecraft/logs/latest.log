@@ -513,3 +513,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Jun2025 19:06:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has completed the challenge [Eye of the Tiger]
 [26Jun2025 19:48:50.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Ice Bucket Challenge]
 [26Jun2025 20:15:45.036] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "JAGlitsh" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-261, y=71, z=1170}] too quickly!
+[26Jun2025 20:21:27.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[26Jun2025 20:21:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[26Jun2025 20:21:27.813] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jun2025 20:23:10.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:55737] logged in with entity id 58042 at (27.177789701488003, -19.0, 1430.603742103253)
+[26Jun2025 20:23:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
