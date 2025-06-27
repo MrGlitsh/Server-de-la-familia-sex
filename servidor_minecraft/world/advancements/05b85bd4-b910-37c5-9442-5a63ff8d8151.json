@@ -55,6 +55,7 @@
       "minecraft:windswept_savanna": "2025-06-27 00:38:00 +0000",
       "minecraft:warm_ocean": "2025-06-25 03:27:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-26 21:08:50 +0000",
+      "minecraft:deep_dark": "2025-06-27 02:25:34 +0000",
       "minecraft:meadow": "2025-06-26 04:28:01 +0000",
       "minecraft:savanna": "2025-06-25 04:24:47 +0000",
       "minecraft:plains": "2025-06-23 22:42:25 +0000"
@@ -5740,6 +5741,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-27 02:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-06-27 00:40:52 +0000"
@@ -5770,6 +5777,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-27 02:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-27 02:00:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_bluff": {
     "criteria": {
       "bluff": "2025-06-27 01:44:07 +0000"
@@ -5785,6 +5804,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
     "criteria": {
       "has_waxed_cut_copper": "2025-06-26 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-27 02:24:13 +0000"
     },
     "done": true
   },
@@ -5809,6 +5834,12 @@
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-27 02:25:34 +0000"
     },
     "done": true
   },
@@ -5977,6 +6008,18 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-06-27 01:57:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-27 02:18:21 +0000"
     },
     "done": true
   },

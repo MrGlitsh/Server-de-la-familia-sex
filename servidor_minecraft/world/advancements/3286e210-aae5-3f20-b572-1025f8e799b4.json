@@ -37,6 +37,7 @@
       "minecraft:desert": "2025-06-24 02:52:17 +0000",
       "minecraft:jungle": "2025-06-24 20:46:24 +0000",
       "minecraft:deep_dark": "2025-06-25 02:40:39 +0000",
+      "minecraft:meadow": "2025-06-27 01:58:59 +0000",
       "minecraft:savanna": "2025-06-25 02:45:59 +0000",
       "minecraft:plains": "2025-06-24 03:06:02 +0000"
     },
@@ -1723,6 +1724,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-27 01:57:22 +0000",
       "minecraft:skeleton": "2025-06-24 19:35:42 +0000",
       "minecraft:spider": "2025-06-24 19:24:59 +0000",
       "minecraft:creeper": "2025-06-24 21:23:56 +0000",
@@ -4174,9 +4176,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-27 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-27 02:08:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-27 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-27 02:08:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-27 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-27 02:11:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-27 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-27 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-27 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-27 01:58:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-06-27 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-06-27 02:17:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-06-27 01:57:33 +0000"
     },
     "done": true
   },

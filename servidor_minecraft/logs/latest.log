@@ -118,3 +118,65 @@
 [27Jun2025 01:57:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [All Along The Watchtower]
 [27Jun2025 01:57:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [All Along The Watchtower]
 [27Jun2025 01:58:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [The Lighthouse]
+[27Jun2025 02:00:22.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Ol' Betsy]
+[27Jun2025 02:00:36.988] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:00:36.995] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:01:05.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 02:01:36.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Lighthouse]
+[27Jun2025 02:01:44.943] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:44.943] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:44.945] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:44.946] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:44.956] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:44.957] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 02:01:50.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[27Jun2025 02:01:50.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 6.695239530644358,-7.293512139530549,-2.9673875491089348
+[27Jun2025 02:02:32.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[27Jun2025 02:04:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 02:06:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Radiation Vibe]
+[27Jun2025 02:06:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 02:06:54.242] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-06-27 at /workspaces/Server-de-la-familia-sex/servidor_minecraft/easy_npc/backup ...
+[27Jun2025 02:07:18.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[27Jun2025 02:09:03.351] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:09:03.354] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:09:38.512] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:09:38.515] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:09:44.765] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:09:44.768] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:09:59.263] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:09:59.265] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:10:10.602] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:10:10.606] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:10:16.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Uranium Fever]
+[27Jun2025 02:11:20.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Radiation Vibe]
+[27Jun2025 02:11:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Radiation Vibe]
+[27Jun2025 02:11:37.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Radiation Vibe]
+[27Jun2025 02:11:50.164] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[27Jun2025 02:11:50.166] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[27Jun2025 02:13:54.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Uranium Fever]
+[27Jun2025 02:14:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [THE OOOOOOOOZE]
+[27Jun2025 02:15:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Uranium Fever]
+[27Jun2025 02:16:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Uranium Fever]
+[27Jun2025 02:17:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Smelly Situation]
+[27Jun2025 02:17:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 02:17:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[27Jun2025 02:17:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Bath Bomb]
+[27Jun2025 02:17:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Rust-eze!]
+[27Jun2025 02:17:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Bath Bomb]
+[27Jun2025 02:18:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [THE OOOOOOOOZE]
+[27Jun2025 02:18:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Bath Bomb]
+[27Jun2025 02:19:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [The Journey Begins]
+[27Jun2025 02:21:09.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Crisis Adverted]
+[27Jun2025 02:21:14.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Brains and Brawn]
+[27Jun2025 02:21:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [It Belongs in a Museum]
+[27Jun2025 02:24:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Bath Bomb]
+[27Jun2025 02:25:24.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Smelly Situation]
+[27Jun2025 02:25:41.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [It Spreads]
+[27Jun2025 02:26:37.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Smelly Situation]
+[27Jun2025 02:26:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Smelly Situation]
+[27Jun2025 02:29:05.738] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:29:05.745] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:29:34.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Shelf Life]
+[27Jun2025 02:29:42.584] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 02:29:42.592] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 02:29:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
