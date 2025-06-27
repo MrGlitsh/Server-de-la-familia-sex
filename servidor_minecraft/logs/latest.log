@@ -180,3 +180,10 @@
 [27Jun2025 02:29:42.584] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [27Jun2025 02:29:42.592] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [27Jun2025 02:29:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[27Jun2025 02:39:17.246] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[27Jun2025 02:39:17.251] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[27Jun2025 02:39:24.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD hit the ground too hard whilst trying to escape JAGlitsh
+[27Jun2025 02:40:17.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[27Jun2025 02:40:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[27Jun2025 02:40:29.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Timed out
+[27Jun2025 02:40:29.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game

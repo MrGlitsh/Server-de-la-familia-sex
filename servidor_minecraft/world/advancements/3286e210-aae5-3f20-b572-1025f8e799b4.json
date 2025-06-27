@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-27 01:50:12 +0000",
       "minecraft:eroded_badlands": "2025-06-26 21:39:56 +0000",
+      "minecraft:cherry_grove": "2025-06-27 02:36:05 +0000",
       "minecraft:badlands": "2025-06-24 02:46:53 +0000",
       "minecraft:savanna_plateau": "2025-06-26 21:30:18 +0000",
       "minecraft:beach": "2025-06-24 21:24:16 +0000",
@@ -4236,9 +4237,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-06-27 02:30:05 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-06-27 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-27 02:26:55 +0000"
     },
     "done": true
   },

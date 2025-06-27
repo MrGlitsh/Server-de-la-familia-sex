@@ -5945,6 +5945,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-06-27 02:37:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-26 21:42:06 +0000"
@@ -5960,6 +5966,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-27 02:26:37 +0000"
     },
     "done": true
   },
