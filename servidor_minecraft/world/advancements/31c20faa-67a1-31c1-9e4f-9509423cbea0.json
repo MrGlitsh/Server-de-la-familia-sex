@@ -33,6 +33,7 @@
       "minecraft:sparse_jungle": "2025-06-24 02:17:33 +0000",
       "minecraft:river": "2025-06-24 02:27:52 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 03:35:37 +0000",
+      "minecraft:dripstone_caves": "2025-06-27 00:14:31 +0000",
       "minecraft:forest": "2025-06-25 03:46:06 +0000",
       "minecraft:desert": "2025-06-24 02:27:08 +0000",
       "minecraft:jungle": "2025-06-25 03:37:19 +0000",
@@ -4369,6 +4370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-27 00:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-26 21:55:28 +0000"
@@ -4384,6 +4391,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-06-26 21:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
     },
     "done": true
   },
@@ -4453,6 +4466,12 @@
     },
     "done": true
   },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-06-27 00:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-26 22:54:45 +0000"
@@ -4474,6 +4493,12 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-06-26 22:06:39 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-06-27 00:23:29 +0000"
     },
     "done": true
   },
@@ -4537,6 +4562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-26 22:20:12 +0000"
@@ -4597,6 +4628,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-06-27 00:23:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-06-26 22:20:12 +0000"
@@ -4645,6 +4688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-27 00:23:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
       "has_golden_shovel": "2025-06-26 21:54:02 +0000"
@@ -4687,9 +4736,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-26 21:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
     },
     "done": true
   },
@@ -4711,6 +4772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-27 00:08:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 23:57:25 +0000"
@@ -4729,15 +4796,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-06-26 22:45:48 +0000"
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-06-27 00:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-06-26 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
     },
     "done": true
   },
@@ -4795,9 +4880,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-26 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-27 00:16:50 +0000"
     },
     "done": true
   },

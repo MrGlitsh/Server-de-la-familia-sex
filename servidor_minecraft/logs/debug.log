@@ -6033,3 +6033,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jun2025 00:00:33.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jun2025 00:05:33.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 00:05:33.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 00:10:33.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 00:10:33.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 00:15:33.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 00:15:33.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 00:16:29.465] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/88571, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 00:16:29.472] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/88571, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 00:16:29.473] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/88571, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 00:16:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to HEISENBERGXD]
+[27Jun2025 00:17:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[27Jun2025 00:20:33.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 00:20:33.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 00:23:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [A Moment in Time]
+[27Jun2025 00:24:58.548] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/92102, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 00:24:58.548] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/92102, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 00:24:58.548] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/92102, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 00:25:33.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 00:25:33.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 00:26:01.751] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/92601, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 00:26:01.751] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/92601, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 00:26:01.752] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/92601, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 00:26:06.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[27Jun2025 00:26:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
