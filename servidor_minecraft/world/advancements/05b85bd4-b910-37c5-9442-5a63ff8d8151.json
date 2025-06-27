@@ -5878,6 +5878,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_slab_from_reinforced_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_smooth_stone": "2025-06-27 01:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-26 21:42:06 +0000"
@@ -5929,6 +5935,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-06-26 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_slab": {
+    "criteria": {
+      "has_block": "2025-06-27 01:49:57 +0000"
     },
     "done": true
   },

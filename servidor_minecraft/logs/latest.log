@@ -87,3 +87,34 @@
 [27Jun2025 01:47:33.085] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [27Jun2025 01:47:33.087] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [27Jun2025 01:47:51.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
+[27Jun2025 01:49:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [Eye of the Tiger]
+[27Jun2025 01:49:32.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:51818] logged in with entity id 144860 at (-252.47652174039408, 111.0, 1424.6790321129924)
+[27Jun2025 01:49:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[27Jun2025 01:49:48.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[27Jun2025 01:49:50.090] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[27Jun2025 01:49:50.092] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[27Jun2025 01:49:56.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
+[27Jun2025 01:51:36.695] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[27Jun2025 01:51:36.699] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[27Jun2025 01:51:38.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/141141, l='ServerLevel[world]', x=-2546.50, y=135.63, z=-3623.30] died, message: 'Fletcher froze to death'
+[27Jun2025 01:52:51.233] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[27Jun2025 01:52:51.241] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[27Jun2025 01:53:10.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[27Jun2025 01:53:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[27Jun2025 01:53:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Zombie
+[27Jun2025 01:53:36.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/141148, l='ServerLevel[world]', x=-2541.45, y=134.00, z=-3627.50] died, message: 'Nitwit froze to death'
+[27Jun2025 01:53:48.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70ac2f2b[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:60161) lost connection: Timed out
+[27Jun2025 01:54:20.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:60381] logged in with entity id 147754 at (-247.5, 64.0625, 1158.5)
+[27Jun2025 01:54:20.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[27Jun2025 01:54:44.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[27Jun2025 01:54:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[27Jun2025 01:55:50.414] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/148577, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 01:55:50.414] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/148577, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 01:55:50.414] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/148577, l='ServerLevel[world]', x=-2776.50, y=133.00, z=-3765.50].
+[27Jun2025 01:56:06.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 01:56:45.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 01:57:09.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [All Along The Watchtower]
+[27Jun2025 01:57:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[27Jun2025 01:57:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [All Along The Watchtower]
+[27Jun2025 01:57:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [All Along The Watchtower]
+[27Jun2025 01:58:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [The Lighthouse]
