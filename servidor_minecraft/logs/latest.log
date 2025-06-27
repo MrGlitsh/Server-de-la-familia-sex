@@ -12,3 +12,29 @@
 [27Jun2025 00:26:01.752] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/92601, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
 [27Jun2025 00:26:06.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
 [27Jun2025 00:26:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[27Jun2025 00:35:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 00:37:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 00:38:24.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:51311] logged in with entity id 100624 at (-286.4175181830318, 107.0, 1436.1433925068434)
+[27Jun2025 00:38:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[27Jun2025 00:38:28.140] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[27Jun2025 00:38:28.175] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[27Jun2025 00:38:37.605] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/101047, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 00:38:37.606] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/101047, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 00:38:37.606] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/101047, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 00:38:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 00:40:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 00:40:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 00:40:38.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Best Friends Forever]
+[27Jun2025 00:41:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Earning your Wings]
+[27Jun2025 00:41:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Your First Receptacle]
+[27Jun2025 00:42:45.950] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74bb22f4[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:63078) lost connection: Disconnected
+[27Jun2025 00:42:53.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58602] logged in with entity id 103375 at (-2157.6400187389913, 78.0, 1749.4652004565087)
+[27Jun2025 00:42:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[27Jun2025 00:52:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Rigged from the Start]
+[27Jun2025 00:52:59.114] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/112174, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 00:52:59.114] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/112174, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 00:52:59.115] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/112174, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 00:55:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Mine? Mine? Mine?]
+[27Jun2025 00:57:26.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[27Jun2025 00:57:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[27Jun2025 00:57:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]

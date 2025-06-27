@@ -37,6 +37,7 @@
       "minecraft:forest": "2025-06-25 03:46:06 +0000",
       "minecraft:desert": "2025-06-24 02:27:08 +0000",
       "minecraft:jungle": "2025-06-25 03:37:19 +0000",
+      "minecraft:windswept_savanna": "2025-06-27 00:38:45 +0000",
       "minecraft:warm_ocean": "2025-06-25 04:09:23 +0000",
       "minecraft:savanna": "2025-06-25 03:46:07 +0000",
       "minecraft:plains": "2025-06-24 02:17:50 +0000"
@@ -4424,6 +4425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-26 22:20:12 +0000"
@@ -4436,6 +4443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 23:57:25 +0000"
@@ -4445,6 +4458,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-06-26 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
@@ -4463,6 +4482,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-06-26 22:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
@@ -4514,9 +4539,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-26 22:04:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
@@ -4586,6 +4629,12 @@
     },
     "done": true
   },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_boots": "2025-06-27 00:41:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 21:49:53 +0000"
@@ -4631,6 +4680,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2025-06-27 00:41:31 +0000"
     },
     "done": true
   },
@@ -4748,6 +4803,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-27 00:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-27 00:16:50 +0000"
@@ -4763,6 +4830,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-27 00:55:09 +0000"
     },
     "done": true
   },
@@ -4787,6 +4860,18 @@
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-06-26 22:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
@@ -4823,6 +4908,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
@@ -4904,6 +4995,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2025-06-27 00:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 21:49:53 +0000"
@@ -4913,6 +5010,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-26 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-27 00:41:30 +0000"
     },
     "done": true
   },
