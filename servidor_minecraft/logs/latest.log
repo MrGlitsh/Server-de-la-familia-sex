@@ -38,3 +38,17 @@
 [27Jun2025 00:57:26.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
 [27Jun2025 00:57:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
 [27Jun2025 00:57:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 00:59:26.745] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[27Jun2025 00:59:26.747] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[27Jun2025 01:01:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Magic Writing]
+[27Jun2025 01:01:43.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[27Jun2025 01:01:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[27Jun2025 01:03:04.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:54923] logged in with entity id 119919 at (-2534.9229177634347, 65.0, -1090.358844948563)
+[27Jun2025 01:03:04.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[27Jun2025 01:04:00.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[27Jun2025 01:04:00.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[27Jun2025 01:04:38.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62215] logged in with entity id 120293 at (-2532.013779694524, 63.085764312744146, -1098.9500416369394)
+[27Jun2025 01:04:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[27Jun2025 01:07:45.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[27Jun2025 01:07:45.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[27Jun2025 01:07:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> D:

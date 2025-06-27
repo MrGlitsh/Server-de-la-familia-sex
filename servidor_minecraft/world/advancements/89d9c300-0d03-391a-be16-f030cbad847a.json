@@ -5483,39 +5483,15 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-06-26 23:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-26 23:20:33 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/master_wololo": {
     "criteria": {
       "has_wololo_blue": "2025-06-26 22:33:38 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+  "tombstone:adventure/wololo": {
     "criteria": {
-      "has_cut_sandstone": "2025-06-26 23:22:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-06-26 23:20:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2025-06-27 00:41:27 +0000"
+      "has_wololo_blue": "2025-06-26 22:33:38 +0000"
     },
     "done": true
   },
@@ -5525,39 +5501,9 @@
     },
     "done": true
   },
-  "aether:obsidian_armor": {
-    "criteria": {
-      "obsidian_boots": "2025-06-27 00:41:50 +0000"
-    },
-    "done": false
-  },
   "aether:recipes/combat/blue_cape_blue_wool": {
     "criteria": {
       "has_blue_wool": "2025-06-26 22:35:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_helmet_repairing": {
-    "criteria": {
-      "has_chainmail_helmet": "2025-06-27 00:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-06-26 23:38:08 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-26 23:20:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-06-26 23:38:14 +0000"
     },
     "done": true
   },
@@ -5567,27 +5513,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+  "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
-      "has_orange_terracotta": "2025-06-27 00:38:30 +0000"
+      "has_blue_wool": "2025-06-26 22:35:26 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
+  "aether:recipes/tools/golden_pickaxe_repairing": {
     "criteria": {
-      "has_water_bucket": "2025-06-26 23:38:08 +0000"
+      "has_golden_pickaxe": "2025-06-26 23:20:30 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+  "aether:recipes/tools/golden_hoe_repairing": {
     "criteria": {
-      "has_magnet_upgrade": "2025-06-27 00:39:31 +0000"
+      "has_golden_hoe": "2025-06-26 23:20:32 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_water_bucket": "2025-06-26 23:38:08 +0000"
+      "has_flint": "2025-06-26 23:20:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 23:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-26 23:22:09 +0000"
     },
     "done": true
   },
@@ -5597,21 +5555,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "has_blue_wool": "2025-06-26 22:35:26 +0000"
+      "has_water_bucket": "2025-06-26 23:38:08 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/wololo": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_wololo_blue": "2025-06-26 22:33:38 +0000"
+      "has_water_bucket": "2025-06-26 23:38:08 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/golden_hoe_repairing": {
+  "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
-      "has_golden_hoe": "2025-06-26 23:20:32 +0000"
+      "has_water_bucket": "2025-06-26 23:38:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 23:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-26 23:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-27 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-06-27 00:39:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-06-27 00:41:27 +0000"
+    },
+    "done": true
+  },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_boots": "2025-06-27 00:41:50 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-27 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-27 00:56:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-06-27 01:00:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-27 01:01:07 +0000"
     },
     "done": true
   },
