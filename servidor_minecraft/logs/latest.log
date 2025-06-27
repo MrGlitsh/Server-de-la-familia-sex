@@ -52,3 +52,38 @@
 [27Jun2025 01:07:45.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
 [27Jun2025 01:07:45.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
 [27Jun2025 01:07:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> D:
+[27Jun2025 01:14:01.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Fishy Business]
+[27Jun2025 01:20:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [Cover me with... scutes?]
+[27Jun2025 01:20:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [We Just Want our Hat Back]
+[27Jun2025 01:21:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [Cover me with... scutes?]
+[27Jun2025 01:25:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[27Jun2025 01:27:18.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Magic Siphoner]
+[27Jun2025 01:27:36.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:59565] logged in with entity id 128241 at (-805.3440542396555, 110.0, 1380.440655185784)
+[27Jun2025 01:27:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[27Jun2025 01:32:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[27Jun2025 01:32:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 01:32:42.013] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/130733, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[27Jun2025 01:32:42.013] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/130733, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[27Jun2025 01:32:42.014] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/130733, l='ServerLevel[world]', x=-481.50, y=69.00, z=1501.50].
+[27Jun2025 01:32:56.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[27Jun2025 01:33:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[27Jun2025 01:33:29.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[27Jun2025 01:33:39.812] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[27Jun2025 01:33:48.672] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[27Jun2025 01:33:49.048] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[27Jun2025 01:34:00.948] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[27Jun2025 01:39:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to HEISENBERGXD]
+[27Jun2025 01:40:05.907] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[27Jun2025 01:40:05.910] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[27Jun2025 01:40:07.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [All Along The Watchtower]
+[27Jun2025 01:41:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Called Your Bluff]
+[27Jun2025 01:44:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Called Your Bluff]
+[27Jun2025 01:44:14.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 9.796717607461261,-2.249187078744683,0.6911099403396292
+[27Jun2025 01:44:40.798] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[27Jun2025 01:44:40.814] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[27Jun2025 01:44:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Spider
+[27Jun2025 01:44:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[27Jun2025 01:44:59.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Called Your Bluff]
+[27Jun2025 01:47:33.085] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[27Jun2025 01:47:33.087] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[27Jun2025 01:47:51.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton

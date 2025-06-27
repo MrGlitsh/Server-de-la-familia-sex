@@ -25,22 +25,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-27 01:40:07 +0000",
+      "minecraft:deep_ocean": "2025-06-27 01:19:25 +0000",
+      "minecraft:birch_forest": "2025-06-27 01:30:55 +0000",
       "minecraft:wooded_badlands": "2025-06-24 19:20:56 +0000",
       "minecraft:badlands": "2025-06-23 03:32:23 +0000",
       "minecraft:savanna_plateau": "2025-06-24 19:13:28 +0000",
       "minecraft:beach": "2025-06-23 22:41:27 +0000",
+      "minecraft:dark_forest": "2025-06-27 01:31:19 +0000",
       "minecraft:mangrove_swamp": "2025-06-25 01:29:24 +0000",
       "minecraft:sparse_jungle": "2025-06-23 22:42:42 +0000",
       "minecraft:river": "2025-06-23 04:01:04 +0000",
       "minecraft:lukewarm_ocean": "2025-06-23 23:04:22 +0000",
       "minecraft:dripstone_caves": "2025-06-24 03:18:08 +0000",
+      "minecraft:grove": "2025-06-27 01:29:30 +0000",
+      "minecraft:jagged_peaks": "2025-06-27 01:25:09 +0000",
       "minecraft:forest": "2025-06-23 22:34:34 +0000",
       "minecraft:lush_caves": "2025-06-26 23:32:33 +0000",
       "minecraft:desert": "2025-06-23 04:01:01 +0000",
       "minecraft:jungle": "2025-06-23 23:02:40 +0000",
+      "minecraft:ocean": "2025-06-27 01:19:23 +0000",
       "minecraft:warm_ocean": "2025-06-26 23:17:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 23:17:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-27 01:32:38 +0000",
       "minecraft:deep_dark": "2025-06-26 02:17:53 +0000",
+      "minecraft:meadow": "2025-06-27 01:24:35 +0000",
       "minecraft:savanna": "2025-06-24 19:09:47 +0000",
       "minecraft:plains": "2025-06-23 22:42:20 +0000"
     },
@@ -1174,6 +1183,7 @@
       "minecraft:cave_spider": "2025-06-24 02:37:24 +0000",
       "minecraft:piglin": "2025-06-24 23:14:55 +0000",
       "minecraft:enderman": "2025-06-23 23:18:27 +0000",
+      "minecraft:stray": "2025-06-27 01:29:51 +0000",
       "minecraft:zombie": "2025-06-23 03:49:40 +0000",
       "minecraft:drowned": "2025-06-23 22:51:10 +0000",
       "minecraft:zombie_villager": "2025-06-24 04:30:49 +0000"
@@ -5630,6 +5640,84 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-27 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-06-27 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-06-27 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-27 01:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-27 01:14:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-27 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-27 01:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2025-06-27 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-27 01:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-27 01:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-27 01:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-27 01:34:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-06-27 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-06-27 01:20:24 +0000"
     },
     "done": true
   },
