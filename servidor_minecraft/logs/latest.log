@@ -531,3 +531,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 19:40:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
 [28Jun2025 19:50:11.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
 [28Jun2025 19:50:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 19:57:06.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57296] logged in with entity id 27250 at (-256.44635516414945, 66.0, 1166.1568669132091)
+[28Jun2025 19:57:06.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[28Jun2025 19:57:28.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> diaaaaaaaa
+[28Jun2025 19:57:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> diaaaaaaaa
+[28Jun2025 19:57:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> diaaaaaaaaaaaa
+[28Jun2025 19:57:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> bloblobloblob
+[28Jun2025 19:57:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> jose no esta
+[28Jun2025 19:57:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito ese
+[28Jun2025 19:57:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> metele un deo por culo cuando lo veas
+[28Jun2025 19:58:07.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> argenis andas haciendo tu casa o q
+[28Jun2025 19:58:24.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[28Jun2025 19:58:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[28Jun2025 19:58:47.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:51109] logged in with entity id 27802 at (-309.032515120296, -51.0, 1602.7034485076024)
+[28Jun2025 19:58:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game

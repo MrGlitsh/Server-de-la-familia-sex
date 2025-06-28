@@ -4285,45 +4285,27 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-06-28 18:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-06-28 18:57:31 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2025-06-28 19:27:28 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-06-28 19:22:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-06-28 18:42:46 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/iron_hoe_repairing": {
+  "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
-      "has_iron_hoe": "2025-06-28 19:50:23 +0000"
+      "has_diamond_boots": "2025-06-28 18:42:49 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-06-28 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-28 18:43:42 +0000"
     },
     "done": true
   },
@@ -4339,15 +4321,27 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "enchanted_item": "2025-06-28 18:43:42 +0000"
+      "has_potato": "2025-06-28 18:49:13 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_boots_repairing": {
+  "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
-      "has_diamond_boots": "2025-06-28 18:42:49 +0000"
+      "all_effects": "2025-06-28 18:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-28 18:57:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-06-28 19:22:58 +0000"
     },
     "done": true
   },
@@ -4357,9 +4351,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "mowziesmobs:suns_blessing": {
     "criteria": {
-      "has_potato": "2025-06-28 18:49:13 +0000"
+      "get_suns_blessing": "2025-06-28 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-28 19:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-28 19:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-28 20:01:51 +0000"
     },
     "done": true
   },
