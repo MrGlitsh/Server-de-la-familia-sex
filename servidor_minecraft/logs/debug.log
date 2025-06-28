@@ -3757,3 +3757,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Jun2025 00:03:22.728] [Server thread/DEBUG] [tombstone/]: A new grave of the player CHUCHIXD was created at position [x:-283, y:64, z:1195, dim:minecraft:overworld]
 [28Jun2025 00:03:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Most Useful Key]
 [28Jun2025 00:03:23.453] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751069003453
+[28Jun2025 00:04:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Quickly Applied]
+[28Jun2025 00:04:36.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:04:36.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:09:05.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[28Jun2025 00:09:36.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:09:36.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=-2422.50, y=-54.00, z=-3969.50].

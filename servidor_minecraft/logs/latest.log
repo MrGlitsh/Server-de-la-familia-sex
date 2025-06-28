@@ -4,3 +4,8 @@
 [28Jun2025 00:03:13.040] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [28Jun2025 00:03:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Zombie
 [28Jun2025 00:03:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Most Useful Key]
+[28Jun2025 00:04:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Quickly Applied]
+[28Jun2025 00:09:05.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[28Jun2025 00:14:04.001] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Zombie['entity.easy_npc.husk'/23872, l='ServerLevel[world]', x=-2422.50, y=-54.00, z=-3969.50].
