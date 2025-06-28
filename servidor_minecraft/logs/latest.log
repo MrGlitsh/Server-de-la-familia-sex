@@ -737,3 +737,39 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 22:29:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [An Alloy To Remember]
 [28Jun2025 22:44:57.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIxXD[/100.115.86.32:52650] logged in with entity id 108647 at (-257.134213960668, 65.0, 1168.9686612829278)
 [28Jun2025 22:44:57.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD joined the game
+[28Jun2025 22:45:24.201] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[28Jun2025 22:45:24.202] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[28Jun2025 22:45:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> :v
+[28Jun2025 22:45:32.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> no debiste hacer eso
+[28Jun2025 22:45:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIxXD> esta juegando manuel
+[28Jun2025 22:46:13.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIxXD lost connection: Disconnected
+[28Jun2025 22:46:13.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD left the game
+[28Jun2025 22:46:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q
+[28Jun2025 22:46:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> osea me metio un esapdazo me defendi, lo revivi y se fue
+[28Jun2025 22:47:23.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIxXD[/100.115.86.32:52684] logged in with entity id 109236 at (-257.7840845587436, 65.0, 1166.784629566977)
+[28Jun2025 22:47:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD joined the game
+[28Jun2025 22:47:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> mira gilbi
+[28Jun2025 22:47:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> tengo una esensia de los mueltos
+[28Jun2025 22:48:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIxXD> soy mamuer, yilbert dice que se lo guardes
+[28Jun2025 22:48:08.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> mamuel
+[28Jun2025 22:48:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ya ya
+[28Jun2025 22:48:47.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> no se donde anda adrianson y kervi
+[28Jun2025 22:48:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> el jose se fue a comer pene
+[28Jun2025 22:48:55.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIxXD> conectate al discord
+[28Jun2025 22:48:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> hace ratito
+[28Jun2025 22:51:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIxXD> duerme perra
+[28Jun2025 22:51:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> rene podes dolmi
+[28Jun2025 22:51:43.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> me voy a salir y entro en seg
+[28Jun2025 22:51:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> asi puedes dormir
+[28Jun2025 22:51:53.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> sisa
+[28Jun2025 22:51:55.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[28Jun2025 22:51:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[28Jun2025 22:52:10.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53361] logged in with entity id 110215 at (-252.94228309195407, 71.0, 1465.2386629893756)
+[28Jun2025 22:52:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 22:52:56.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> ya durmieron?
+[28Jun2025 22:53:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> sss
+[28Jun2025 22:54:46.047] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[28Jun2025 22:54:46.049] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[28Jun2025 22:55:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has reached the goal [Strong or Careful]
+[28Jun2025 22:55:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD was shot by Skeleton
+[28Jun2025 22:55:04.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [Your First Grave]
