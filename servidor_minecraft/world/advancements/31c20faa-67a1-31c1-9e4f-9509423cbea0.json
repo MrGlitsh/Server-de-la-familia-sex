@@ -5417,6 +5417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-28 03:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-06-28 02:18:48 +0000"
@@ -5429,11 +5435,23 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-06-28 03:24:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "green_soylent": "2025-06-28 01:54:28 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-28 03:24:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
