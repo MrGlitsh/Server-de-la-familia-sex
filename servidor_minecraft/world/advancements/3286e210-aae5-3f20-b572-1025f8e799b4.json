@@ -865,6 +865,7 @@
       "pumpkin_pie": "2025-06-26 21:49:16 +0000",
       "bread": "2025-06-24 04:07:14 +0000",
       "rotten_flesh": "2025-06-24 03:20:15 +0000",
+      "cooked_chicken": "2025-06-28 22:08:04 +0000",
       "carrot": "2025-06-26 17:49:12 +0000"
     },
     "done": false
@@ -4407,6 +4408,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-28 21:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-28 21:35:24 +0000"
@@ -4785,6 +4792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-28 21:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-28 21:34:33 +0000"
@@ -4809,6 +4822,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-06-28 22:05:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-06-28 20:11:49 +0000"
@@ -4818,6 +4837,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-28 20:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-28 21:53:17 +0000"
     },
     "done": true
   },
