@@ -492,3 +492,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 18:43:42.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Enchanter]
 [28Jun2025 18:50:10.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
 [28Jun2025 18:50:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 18:52:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has completed the challenge [Free Willy]
+[28Jun2025 18:55:44.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:65477] logged in with entity id 11398 at (-252.19456909035586, 71.0, 1166.2717958284497)
+[28Jun2025 18:55:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[28Jun2025 18:57:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Take Aim]
+[28Jun2025 18:59:45.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 18:59:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
