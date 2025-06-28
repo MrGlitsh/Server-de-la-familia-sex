@@ -6090,5 +6090,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-28 21:04:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-06-28 21:07:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
