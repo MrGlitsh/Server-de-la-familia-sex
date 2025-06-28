@@ -85,3 +85,28 @@
 [28Jun2025 01:23:23.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58305, l='ServerLevel[world]', x=-1053.45, y=71.00, z=-176.36] died, message: 'Villager was slain by CHUCHIXD'
 [28Jun2025 01:24:02.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58310, l='ServerLevel[world]', x=-1053.30, y=71.00, z=-176.76] died, message: 'Villager was slain by CHUCHIXD'
 [28Jun2025 01:24:12.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/58304, l='ServerLevel[world]', x=-1038.13, y=71.00, z=-204.82] died, message: 'Librarian was slain by Husk'
+[28Jun2025 01:26:06.298] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[28Jun2025 01:26:06.322] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[28Jun2025 01:26:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Drowned
+[28Jun2025 01:35:32.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/65666, l='ServerLevel[world]', x=-2541.48, y=134.00, z=-3627.14] died, message: 'Fletcher froze to death'
+[28Jun2025 01:36:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Ice Bucket Challenge]
+[28Jun2025 01:39:11.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[28Jun2025 01:39:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[28Jun2025 01:41:18.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:50325] logged in with entity id 71147 at (-2513.870391473283, 128.0, -3577.9663259556783)
+[28Jun2025 01:41:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[28Jun2025 01:42:06.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[28Jun2025 01:42:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[28Jun2025 01:45:22.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:50538] logged in with entity id 72683 at (-2511.7064795268575, 128.0, -3576.664337726804)
+[28Jun2025 01:45:22.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[28Jun2025 01:46:18.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6775ms or 135 ticks behind
+[28Jun2025 01:46:18.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! -4.751932131977355,0.0,8.90828340371445
+[28Jun2025 01:46:26.502] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[28Jun2025 01:46:26.510] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[28Jun2025 01:46:41.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Zombie
+[28Jun2025 01:48:24.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/72712, l='ServerLevel[world]', x=-2541.55, y=134.00, z=-3629.50] died, message: 'Weaponsmith froze to death'
+[28Jun2025 01:53:07.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Best Friends Forever]
+[28Jun2025 01:54:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Pray to the Goddess]
+[28Jun2025 02:01:20.360] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[28Jun2025 02:01:20.362] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[28Jun2025 02:01:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD fell from a high place
+[28Jun2025 02:03:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to HEISENBERGXD: Te tendremos que coger

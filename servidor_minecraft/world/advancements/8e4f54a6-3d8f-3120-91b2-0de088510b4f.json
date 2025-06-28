@@ -1777,7 +1777,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-06-23 23:01:54 +0000",
-      "minecraft:cow": "2025-06-23 22:51:53 +0000"
+      "minecraft:cow": "2025-06-23 22:51:53 +0000",
+      "minecraft:horse": "2025-06-28 01:33:23 +0000"
     },
     "done": false
   },
@@ -5564,6 +5565,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-06-28 01:02:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-28 01:41:54 +0000"
     },
     "done": true
   },
