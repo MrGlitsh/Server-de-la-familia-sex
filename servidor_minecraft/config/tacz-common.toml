@@ -1,19 +1,4 @@
 
-[gun]
-	#The default fire sound range (block)
-	#Range: > 0
-	DefaultGunFireSoundDistance = 64
-	#The silencer default fire sound range (block)
-	#Range: > 0
-	DefaultGunSilenceSoundDistance = 16
-	#The range (block) of other gun sound, reloading sound etc.
-	#Range: > 0
-	DefaultGunOtherSoundDistance = 16
-	#Whether or not the player will consume ammo in creative mode
-	CreativePlayerConsumeAmmo = true
-	#Auto reload all the guns in player inventory, useful for pvp servers
-	AutoReloadWhenRespawn = false
-
 [ammo]
 	#Warning: Ammo with explosive properties can break blocks
 	ExplosiveAmmoDestroysBlock = true
@@ -32,6 +17,21 @@
 	IgniteBlock = true
 	#Whether a ammo can ignite the entity
 	IgniteEntity = true
+
+[gun]
+	#The default fire sound range (block)
+	#Range: > 0
+	DefaultGunFireSoundDistance = 64
+	#The silencer default fire sound range (block)
+	#Range: > 0
+	DefaultGunSilenceSoundDistance = 16
+	#The range (block) of other gun sound, reloading sound etc.
+	#Range: > 0
+	DefaultGunOtherSoundDistance = 16
+	#Whether or not the player will consume ammo in creative mode
+	CreativePlayerConsumeAmmo = true
+	#Auto reload all the guns in player inventory, useful for pvp servers
+	AutoReloadWhenRespawn = false
 
 [other]
 	#Deprecated: now move to .minecraft/tacz/tacz-pre.toml or <your version>/tacz/tacz-pre.toml

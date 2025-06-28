@@ -6065,15 +6065,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "2025-06-28 03:34:54 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-06-28 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "2025-06-28 03:34:54 +0000"
     },
     "done": true
   },
