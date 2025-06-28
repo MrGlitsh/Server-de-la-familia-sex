@@ -4177,45 +4177,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-27 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-06-27 01:57:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-27 01:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-27 02:03:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-27 02:08:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-06-27 02:16:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-06-27 02:08:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-06-27 02:19:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-06-27 02:11:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-06-27 02:17:49 +0000"
     },
     "done": true
   },
@@ -4231,27 +4213,33 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "location0": "2025-06-27 01:58:10 +0000"
+      "has_cocoa_beans": "2025-06-27 02:08:03 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_radiation_foods": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "slam": "2025-06-27 02:30:05 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-06-27 01:54:54 +0000"
+      "has_cocoa": "2025-06-27 02:08:03 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sulfur_dust": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "sulfur_dust": "2025-06-27 02:26:55 +0000"
+      "discover": "2025-06-27 02:11:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-27 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-27 02:17:49 +0000"
     },
     "done": true
   },
@@ -4261,11 +4249,23 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_windmill": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "location0": "2025-06-27 01:57:33 +0000"
+      "cave_map": "2025-06-27 02:19:52 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-27 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-06-27 02:30:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

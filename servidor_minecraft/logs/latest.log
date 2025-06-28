@@ -156,3 +156,18 @@
 [28Jun2025 03:35:09.537] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
 [28Jun2025 03:35:09.548] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
 [28Jun2025 03:35:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[28Jun2025 03:38:55.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53276] logged in with entity id 118774 at (-251.83784016357055, 65.0, 1168.579069684381)
+[28Jun2025 03:38:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 03:42:56.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Magic Disenchantment]
+[28Jun2025 03:43:52.739] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[28Jun2025 03:43:52.742] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[28Jun2025 03:43:56.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[28Jun2025 03:43:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[28Jun2025 03:43:56.340] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 03:43:59.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was shot by Misterchuwa
+[28Jun2025 03:44:34.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53303] logged in with entity id 120057 at (-274.28717888081627, 64.0, 1184.2735152107373)
+[28Jun2025 03:44:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 03:46:55.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[28Jun2025 03:46:55.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[28Jun2025 03:47:02.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[28Jun2025 03:47:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
