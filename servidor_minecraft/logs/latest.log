@@ -485,3 +485,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 18:22:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -269.500000, 112.500000, 1425.500000]
 [28Jun2025 18:31:07.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50392] logged in with entity id 4494 at (-276.3774925149735, 111.0, 1414.1411613113255)
 [28Jun2025 18:31:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 18:38:53.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[28Jun2025 18:38:53.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[28Jun2025 18:39:46.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50485] logged in with entity id 6759 at (-255.24138809101575, 88.0, 1368.8282660828643)
+[28Jun2025 18:39:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 18:43:42.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Enchanter]
+[28Jun2025 18:50:10.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 18:50:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
