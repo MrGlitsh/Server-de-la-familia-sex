@@ -545,3 +545,77 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 19:58:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
 [28Jun2025 19:58:47.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:51109] logged in with entity id 27802 at (-309.032515120296, -51.0, 1602.7034485076024)
 [28Jun2025 19:58:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[28Jun2025 20:04:45.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=-46, z=1661} BlockPos{x=-316, y=-46, z=1660}
+[28Jun2025 20:04:45.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=-46, z=1661} BlockPos{x=-316, y=-46, z=1660}
+[28Jun2025 20:07:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> argenis?=
+[28Jun2025 20:07:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> Rene
+[28Jun2025 20:07:13.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:50390] logged in with entity id 31290 at (-253.2625237900887, 71.0, 1166.0559537404479)
+[28Jun2025 20:07:13.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[28Jun2025 20:07:14.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 20:07:14.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 20:07:45.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> o
+[28Jun2025 20:07:46.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> reneitor
+[28Jun2025 20:07:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> si
+[28Jun2025 20:07:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> y el marisco de jose
+[28Jun2025 20:08:00.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> a se gue
+[28Jun2025 20:08:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> esta aqui tratando de entrar
+[28Jun2025 20:08:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> porque o puede
+[28Jun2025 20:08:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ? net?
+[28Jun2025 20:08:25.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:50452] logged in with entity id 31675 at (-253.2625237900887, 71.0, 1166.0559537404479)
+[28Jun2025 20:08:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[28Jun2025 20:10:14.796] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
+[28Jun2025 20:10:14.805] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
+[28Jun2025 20:10:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ooo
+[28Jun2025 20:10:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has completed the challenge [Phantom Thief]
+[28Jun2025 20:10:35.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has completed the challenge [It Spreads]
+[28Jun2025 20:10:38.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q isieron ayer
+[28Jun2025 20:11:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has completed the challenge [Almost Unkillable]
+[28Jun2025 20:11:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 was slain by Warden
+[28Jun2025 20:11:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [The Most Useful Key]
+[28Jun2025 20:11:48.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [A Fast Comeback]
+[28Jun2025 20:11:49.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Discreet Search]
+[28Jun2025 20:13:43.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jose
+[28Jun2025 20:13:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> azzulesç
+[28Jun2025 20:14:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> XDDDDDDDD
+[28Jun2025 20:14:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q buena erga con jose ahora
+[28Jun2025 20:14:54.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q andas asiendo reneitor
+[28Jun2025 20:15:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> no tendras polvo azul ?
+[28Jun2025 20:15:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> estoy haciendo mi casa
+[28Jun2025 20:15:43.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> no
+[28Jun2025 20:17:53.852] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
+[28Jun2025 20:17:53.854] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
+[28Jun2025 20:17:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> sex
+[28Jun2025 20:18:00.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> que tu maldito
+[28Jun2025 20:18:04.555] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -6141 -56 2778 in 1s
+[28Jun2025 20:18:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> sexo
+[28Jun2025 20:18:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> no nada de eso
+[28Jun2025 20:18:20.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> voyalacuevamagnetica
+[28Jun2025 20:18:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> del alexcaves
+[28Jun2025 20:18:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> y severo lag
+[28Jun2025 20:18:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ah
+[28Jun2025 20:18:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 fell from a high place
+[28Jun2025 20:21:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> te morite rene
+[28Jun2025 20:21:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> polq
+[28Jun2025 20:21:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> estoy pasao` de malo pana
+[28Jun2025 20:21:53.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> si e velda pasa tu nick de discord
+[28Jun2025 20:21:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> pa q entres al disc
+[28Jun2025 20:22:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> te lo paso ahorita
+[28Jun2025 20:23:40.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> y kevin
+[28Jun2025 20:23:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> esta chambing
+[28Jun2025 20:23:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> pero juega hou?
+[28Jun2025 20:24:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> sabra dios
+[28Jun2025 20:29:54.661] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[28Jun2025 20:29:54.662] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[28Jun2025 20:29:54.672] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[28Jun2025 20:29:54.672] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[28Jun2025 20:29:54.672] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[28Jun2025 20:29:54.673] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[28Jun2025 20:29:54.673] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[28Jun2025 20:29:54.690] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[28Jun2025 20:29:54.698] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[28Jun2025 20:29:54.699] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[28Jun2025 20:29:57.777] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[28Jun2025 20:29:57.777] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[28Jun2025 20:29:57.794] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[28Jun2025 20:29:57.795] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[28Jun2025 20:29:57.795] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
