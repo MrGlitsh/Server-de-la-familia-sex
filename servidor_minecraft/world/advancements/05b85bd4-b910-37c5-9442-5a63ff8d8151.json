@@ -6065,5 +6065,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-06-28 03:25:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

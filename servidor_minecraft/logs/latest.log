@@ -147,3 +147,12 @@
 [28Jun2025 03:06:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
 [28Jun2025 03:08:41.050] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "JAGlitsh" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-250, y=72, z=1166}] too quickly!
 [28Jun2025 03:21:25.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to -2702.500000, 162.000000, -2798.500000]
+[28Jun2025 03:29:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to -2652.500000, 63.000000, -474.500000]
+[28Jun2025 03:33:32.201] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[28Jun2025 03:33:32.205] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[28Jun2025 03:34:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Crafting a New Look]
+[28Jun2025 03:34:57.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [We Just Want our Hat Back]
+[28Jun2025 03:35:08.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of HEISENBERGXD) moved wrongly! 0.3488546269281869
+[28Jun2025 03:35:09.537] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[28Jun2025 03:35:09.548] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[28Jun2025 03:35:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
