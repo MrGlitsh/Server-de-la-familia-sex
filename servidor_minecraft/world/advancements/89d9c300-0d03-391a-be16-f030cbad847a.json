@@ -6050,6 +6050,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-06-28 22:22:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
@@ -6071,6 +6077,12 @@
   "tombstone:adventure/versatility": {
     "criteria": {
       "coded_trigger": "2025-06-28 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 22:27:55 +0000"
     },
     "done": true
   },
@@ -6221,6 +6233,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-06-28 22:29:00 +0000"
     },
     "done": true
   },
