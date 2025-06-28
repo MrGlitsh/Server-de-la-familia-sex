@@ -518,3 +518,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 19:28:46.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
 [28Jun2025 19:29:47.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
 [28Jun2025 19:29:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[28Jun2025 19:33:44.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50440] logged in with entity id 21186 at (-256.44635516414945, 66.0, 1166.1568669132091)
+[28Jun2025 19:33:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[28Jun2025 19:34:26.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:49832] logged in with entity id 21418 at (-256.33484692037814, 66.0, 1166.1076268215716)
+[28Jun2025 19:34:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[28Jun2025 19:34:44.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[28Jun2025 19:34:44.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[28Jun2025 19:35:21.784] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a490134[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50508) lost connection: Timed out
+[28Jun2025 19:39:35.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 19:39:35.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 19:40:35.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:49966] logged in with entity id 23301 at (-252.61243401486286, 71.0, 1166.4771778870286)
+[28Jun2025 19:40:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[28Jun2025 19:50:11.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 19:50:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
