@@ -498,3 +498,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 18:57:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Take Aim]
 [28Jun2025 18:59:45.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
 [28Jun2025 18:59:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 19:16:25.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49209] logged in with entity id 16259 at (-256.44635516414945, 66.0, 1166.1568669132091)
+[28Jun2025 19:16:25.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[28Jun2025 19:17:25.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[28Jun2025 19:17:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[28Jun2025 19:18:11.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@560be015[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49213) lost connection: Disconnected
+[28Jun2025 19:18:30.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7defac95[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49253) lost connection: Disconnected
+[28Jun2025 19:18:56.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49260] logged in with entity id 17040 at (-256.44635516414945, 66.0, 1166.1568669132091)
+[28Jun2025 19:18:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[28Jun2025 19:19:56.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[28Jun2025 19:19:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
