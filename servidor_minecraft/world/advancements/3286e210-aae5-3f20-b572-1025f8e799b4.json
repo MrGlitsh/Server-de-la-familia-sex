@@ -1726,6 +1726,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-27 01:57:22 +0000",
+      "minecraft:blaze": "2025-06-28 21:48:17 +0000",
       "minecraft:skeleton": "2025-06-24 19:35:42 +0000",
       "minecraft:spider": "2025-06-24 19:24:59 +0000",
       "minecraft:piglin_brute": "2025-06-28 21:29:09 +0000",
@@ -4389,7 +4390,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-28 20:57:44 +0000",
       "minecraft:nether_wastes": "2025-06-28 21:18:05 +0000",
-      "minecraft:soul_sand_valley": "2025-06-28 21:22:34 +0000"
+      "minecraft:soul_sand_valley": "2025-06-28 21:22:34 +0000",
+      "minecraft:basalt_deltas": "2025-06-28 21:45:22 +0000"
     },
     "done": false
   },
@@ -4501,6 +4503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-06-28 21:34:33 +0000"
@@ -4537,6 +4545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-28 21:35:24 +0000"
@@ -4546,6 +4560,18 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-28 20:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-28 21:47:31 +0000"
     },
     "done": true
   },
@@ -4591,6 +4617,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2025-06-28 21:08:55 +0000"
@@ -4633,6 +4671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/soundproof_glass": {
     "criteria": {
       "has_soul_dust": "2025-06-28 20:23:27 +0000"
@@ -4651,6 +4695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-28 21:34:33 +0000"
@@ -4666,6 +4716,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-06-28 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
     },
     "done": true
   },
@@ -4732,6 +4788,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-28 21:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-28 21:47:44 +0000"
     },
     "done": true
   },

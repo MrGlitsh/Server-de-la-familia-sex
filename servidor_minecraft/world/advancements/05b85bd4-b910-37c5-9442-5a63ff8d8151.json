@@ -69,6 +69,7 @@
       "minecraft:skeleton": "2025-06-23 04:27:45 +0000",
       "minecraft:ghast": "2025-06-24 23:25:02 +0000",
       "minecraft:hoglin": "2025-06-23 03:47:16 +0000",
+      "minecraft:magma_cube": "2025-06-28 21:50:24 +0000",
       "minecraft:spider": "2025-06-23 03:32:40 +0000",
       "minecraft:piglin_brute": "2025-06-28 21:29:01 +0000",
       "minecraft:creeper": "2025-06-24 03:43:16 +0000",
@@ -4552,7 +4553,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-24 23:12:57 +0000",
       "minecraft:nether_wastes": "2025-06-24 23:13:32 +0000",
-      "minecraft:soul_sand_valley": "2025-06-24 23:24:07 +0000"
+      "minecraft:soul_sand_valley": "2025-06-24 23:24:07 +0000",
+      "minecraft:basalt_deltas": "2025-06-28 21:45:42 +0000"
     },
     "done": false
   },
@@ -6116,6 +6118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-28 21:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-06-28 21:32:55 +0000"
@@ -6137,6 +6145,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-28 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-28 21:46:24 +0000"
     },
     "done": true
   },
@@ -6179,6 +6193,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-28 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-28 21:46:24 +0000"
     },
     "done": true
   },

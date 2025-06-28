@@ -705,3 +705,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 21:42:06.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=40, z=896} BlockPos{x=36, y=39, z=895}
 [28Jun2025 21:42:06.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=40, z=896} BlockPos{x=36, y=39, z=895}
 [28Jun2025 21:42:06.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=40, z=896} BlockPos{x=36, y=39, z=895}
+[28Jun2025 21:47:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [A Terrible Fortress]
+[28Jun2025 21:52:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jose marisco
+[28Jun2025 21:52:24.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> no
+[28Jun2025 21:52:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito
+[28Jun2025 21:52:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> encontre la cueva magnetica
+[28Jun2025 21:52:50.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ando aqui}
+[28Jun2025 21:53:17.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Into Fire]
