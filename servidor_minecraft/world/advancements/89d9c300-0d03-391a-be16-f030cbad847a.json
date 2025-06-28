@@ -5810,6 +5810,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-28 00:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 01:00:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-28 00:52:05 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2025-06-27 23:38:05 +0000"
@@ -5828,6 +5846,24 @@
     },
     "done": true
   },
+  "aether:recipes/tools/gravitite_axe_repairing": {
+    "criteria": {
+      "has_gravitite_axe": "2025-06-28 00:44:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-06-28 00:44:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-28 00:53:25 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-06-27 23:45:15 +0000"
@@ -5837,6 +5873,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-27 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-28 01:04:44 +0000"
     },
     "done": true
   },

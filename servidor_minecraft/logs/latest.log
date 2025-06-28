@@ -13,3 +13,75 @@
 [28Jun2025 00:15:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> GG
 [28Jun2025 00:15:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
 [28Jun2025 00:15:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[28Jun2025 00:33:31.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[28Jun2025 00:33:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[28Jun2025 00:34:32.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63465] logged in with entity id 28962 at (-2354.9721999108706, 111.17675927506424, -3731.015384352002)
+[28Jun2025 00:34:32.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[28Jun2025 00:34:40.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[28Jun2025 00:34:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[28Jun2025 00:36:55.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63513] logged in with entity id 30013 at (-2355.0085432131873, 111.0, -3730.590477808015)
+[28Jun2025 00:36:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[28Jun2025 00:37:20.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2210, y=34, z=-2966} but found not block entity block Block{minecraft:water}[level=0] at location
+[28Jun2025 00:37:20.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-2210, y=34, z=-2966}
+[28Jun2025 00:38:40.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[28Jun2025 00:38:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[28Jun2025 00:41:28.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63640] logged in with entity id 32434 at (-2390.5808690407002, 119.79673560066871, -3758.4224037275812)
+[28Jun2025 00:41:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[28Jun2025 00:41:36.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[28Jun2025 00:41:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[28Jun2025 00:42:39.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63677] logged in with entity id 33291 at (-2390.5808690407002, 119.0, -3758.4224037275812)
+[28Jun2025 00:42:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[28Jun2025 00:50:15.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[28Jun2025 00:50:15.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[28Jun2025 00:50:15.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[28Jun2025 00:50:15.663] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[28Jun2025 00:50:15.688] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[28Jun2025 00:50:15.688] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[28Jun2025 00:50:15.689] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[28Jun2025 00:50:15.689] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[28Jun2025 00:50:16.476] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[28Jun2025 00:50:16.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[28Jun2025 00:50:16.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[28Jun2025 00:50:16.478] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[28Jun2025 00:50:16.478] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[28Jun2025 00:50:16.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[28Jun2025 00:50:16.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[28Jun2025 00:50:16.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[28Jun2025 00:50:16.571] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[28Jun2025 00:50:16.572] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[28Jun2025 00:50:16.572] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[28Jun2025 00:50:16.572] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[28Jun2025 00:50:16.572] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[28Jun2025 00:50:16.578] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[28Jun2025 00:50:21.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Jaws]
+[28Jun2025 00:52:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Jaws]
+[28Jun2025 01:03:48.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/42049, l='ServerLevel[world]', x=-1721.50, y=54.00, z=-1650.50]
+[28Jun2025 01:04:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [We Just Want our Hat Back]
+[28Jun2025 01:04:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [Praise the Sun]
+[28Jun2025 01:05:24.503] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[28Jun2025 01:05:24.503] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[28Jun2025 01:05:24.503] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[28Jun2025 01:07:08.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:49707] logged in with entity id 44359 at (-2517.41470349997, -42.0, -3869.3586688643736)
+[28Jun2025 01:07:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[28Jun2025 01:16:51.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Brains and Brawn]
+[28Jun2025 01:17:16.577] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[28Jun2025 01:17:16.594] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[28Jun2025 01:17:32.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was blown up by Creeper
+[28Jun2025 01:20:03.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55781, l='ServerLevel[world]', x=-1058.56, y=64.00, z=-120.31] died, message: 'Villager was slain by CHUCHIXD'
+[28Jun2025 01:20:03.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Neighborhood Brawl]
+[28Jun2025 01:20:25.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [THE OOOOOOOOZE]
+[28Jun2025 01:20:43.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55845, l='ServerLevel[world]', x=-1044.26, y=63.00, z=-133.30] died, message: 'Villager was slain by Husk'
+[28Jun2025 01:21:36.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/55775, l='ServerLevel[world]', x=-1050.30, y=72.00, z=-189.59] died, message: 'Librarian was slain by CHUCHIXD'
+[28Jun2025 01:21:37.349] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[28Jun2025 01:21:37.365] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[28Jun2025 01:22:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Husk
+[28Jun2025 01:22:32.653] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[28Jun2025 01:22:32.666] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[28Jun2025 01:22:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Chain Death]
+[28Jun2025 01:22:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Iron Golem
+[28Jun2025 01:22:47.867] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[28Jun2025 01:22:47.869] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[28Jun2025 01:22:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD hit the ground too hard
+[28Jun2025 01:23:23.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58305, l='ServerLevel[world]', x=-1053.45, y=71.00, z=-176.36] died, message: 'Villager was slain by CHUCHIXD'
+[28Jun2025 01:24:02.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58310, l='ServerLevel[world]', x=-1053.30, y=71.00, z=-176.76] died, message: 'Villager was slain by CHUCHIXD'
+[28Jun2025 01:24:12.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/58304, l='ServerLevel[world]', x=-1038.13, y=71.00, z=-204.82] died, message: 'Librarian was slain by Husk'
