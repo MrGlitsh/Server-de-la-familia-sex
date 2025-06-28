@@ -508,3 +508,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 19:18:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
 [28Jun2025 19:19:56.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
 [28Jun2025 19:19:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[28Jun2025 19:22:58.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Chompy]
+[28Jun2025 19:24:14.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Pic-A-Nic Basket?]
+[28Jun2025 19:27:27.189] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@196a13bd[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49292): Took too long to log in
+[28Jun2025 19:27:27.190] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@196a13bd[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49292) lost connection: Took too long to log in
+[28Jun2025 19:27:27.237] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 19:27:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Heliomancer]
+[28Jun2025 19:28:46.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49315] logged in with entity id 19842 at (-256.44635516414945, 66.0, 1166.1568669132091)
+[28Jun2025 19:28:46.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[28Jun2025 19:29:47.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[28Jun2025 19:29:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
