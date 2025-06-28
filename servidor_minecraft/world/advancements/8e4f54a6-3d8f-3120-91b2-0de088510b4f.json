@@ -5544,15 +5544,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-06-28 00:50:21 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-06-28 02:33:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-28 02:33:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2025-06-28 01:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-28 02:05:06 +0000"
     },
     "done": true
   },
@@ -5568,9 +5604,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-06-28 01:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
     },
     "done": true
   },
@@ -5580,15 +5634,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-06-28 01:22:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:35 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-06-28 01:04:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-06-28 02:33:29 +0000"
     },
     "done": true
   },

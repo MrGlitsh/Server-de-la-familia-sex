@@ -5822,6 +5822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-06-28 00:52:05 +0000"
@@ -5840,9 +5846,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-06-28 02:23:32 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-06-28 00:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
     },
     "done": true
   },
@@ -5858,6 +5900,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/gravitite_axe_repairing": {
     "criteria": {
       "has_gravitite_axe": "2025-06-28 00:44:37 +0000"
@@ -5867,6 +5921,12 @@
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-06-28 00:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:24:39 +0000"
     },
     "done": true
   },
