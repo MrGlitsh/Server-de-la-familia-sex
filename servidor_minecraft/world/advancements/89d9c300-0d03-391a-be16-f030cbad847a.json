@@ -6230,6 +6230,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-06-28 21:36:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
@@ -6263,6 +6269,13 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-06-28 21:40:27 +0000",
+      "azure": "2025-06-28 21:40:54 +0000"
     },
     "done": true
   },
