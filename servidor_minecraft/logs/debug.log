@@ -7049,3 +7049,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Jun2025 22:10:44.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jose maldita perra
 [28Jun2025 22:12:01.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 22:12:01.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:16:08.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[28Jun2025 22:16:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[28Jun2025 22:16:13.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q paso
+[28Jun2025 22:16:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> se fue a comer
+[28Jun2025 22:17:01.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:17:01.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:18:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Magnetron No More]
+[28Jun2025 22:18:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> mira pana mañana puedo ir a tu casa por el monitor a la 1?
+[28Jun2025 22:19:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> jose me dijo que mañana no trabajas
+[28Jun2025 22:19:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> se
+[28Jun2025 22:20:19.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> tenes el poder del tp?
+[28Jun2025 22:20:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kingg9> no
+[28Jun2025 22:20:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Publicity Stunt]
+[28Jun2025 22:22:01.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:22:01.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:22:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Half a flight]
+[28Jun2025 22:22:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Come on and Slam]

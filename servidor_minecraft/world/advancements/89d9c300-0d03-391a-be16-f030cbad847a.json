@@ -6062,6 +6062,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-06-28 22:20:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/versatility": {
     "criteria": {
       "coded_trigger": "2025-06-28 21:02:44 +0000"
@@ -6131,6 +6137,12 @@
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-06-28 22:18:45 +0000"
     },
     "done": true
   },
