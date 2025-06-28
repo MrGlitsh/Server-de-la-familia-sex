@@ -3767,7 +3767,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-06-24 18:50:54 +0000",
-      "minecraft:cow": "2025-06-24 18:03:08 +0000"
+      "minecraft:cow": "2025-06-24 18:03:08 +0000",
+      "minecraft:chicken": "2025-06-28 18:25:12 +0000"
     },
     "done": false
   },
@@ -6074,6 +6075,18 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "2025-06-28 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-28 18:25:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-06-28 18:25:12 +0000"
     },
     "done": true
   },
