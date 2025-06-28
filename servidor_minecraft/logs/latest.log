@@ -668,3 +668,32 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 21:22:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> nme
 [28Jun2025 21:22:13.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> encontre al chango de nuevo
 [28Jun2025 21:22:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> al sonwuklong
+[28Jun2025 21:23:54.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=39, z=532} BlockPos{x=31, y=38, z=531}
+[28Jun2025 21:23:54.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=39, z=532} BlockPos{x=31, y=38, z=531}
+[28Jun2025 21:23:54.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=39, z=532} BlockPos{x=31, y=38, z=531}
+[28Jun2025 21:24:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jose
+[28Jun2025 21:24:57.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=41, z=555} BlockPos{x=31, y=42, z=562}
+[28Jun2025 21:24:57.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=41, z=555} BlockPos{x=31, y=42, z=562}
+[28Jun2025 21:24:57.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=41, z=555} BlockPos{x=31, y=42, z=562}
+[28Jun2025 21:25:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Kingg9]
+[28Jun2025 21:26:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Those Were the Days]
+[28Jun2025 21:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Those Were the Days]
+[28Jun2025 21:28:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [War Pigs]
+[28Jun2025 21:28:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Hidden in the Depths]
+[28Jun2025 21:31:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jose
+[28Jun2025 21:33:02.070] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[28Jun2025 21:33:02.071] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[28Jun2025 21:33:03.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 0.2688117375519141
+[28Jun2025 21:33:03.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 0.6889986852111178
+[28Jun2025 21:33:03.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 1.109185632882145
+[28Jun2025 21:33:03.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 1.5293725805595386
+[28Jun2025 21:33:03.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 1.9495595282405702
+[28Jun2025 21:33:03.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 0.3697464759234208
+[28Jun2025 21:33:12.656] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[28Jun2025 21:33:12.657] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[28Jun2025 21:33:12.657] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[28Jun2025 21:33:12.657] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[28Jun2025 21:33:12.657] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[28Jun2025 21:33:12.682] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[28Jun2025 21:33:12.682] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[28Jun2025 21:33:12.683] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}

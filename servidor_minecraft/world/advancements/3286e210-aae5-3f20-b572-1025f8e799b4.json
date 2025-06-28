@@ -1728,6 +1728,7 @@
       "minecraft:pillager": "2025-06-27 01:57:22 +0000",
       "minecraft:skeleton": "2025-06-24 19:35:42 +0000",
       "minecraft:spider": "2025-06-24 19:24:59 +0000",
+      "minecraft:piglin_brute": "2025-06-28 21:29:09 +0000",
       "minecraft:creeper": "2025-06-24 21:23:56 +0000",
       "minecraft:phantom": "2025-06-24 22:39:19 +0000",
       "minecraft:witch": "2025-06-24 21:26:19 +0000",
@@ -4372,12 +4373,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-28 21:28:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-28 20:57:44 +0000",
-      "minecraft:nether_wastes": "2025-06-28 21:18:05 +0000"
+      "minecraft:nether_wastes": "2025-06-28 21:18:05 +0000",
+      "minecraft:soul_sand_valley": "2025-06-28 21:22:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-28 21:28:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/map": {
     "criteria": {
@@ -4388,6 +4402,18 @@
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-06-28 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-28 21:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-28 21:28:24 +0000"
     },
     "done": true
   },
@@ -4418,6 +4444,12 @@
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-06-28 20:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-28 21:28:16 +0000"
     },
     "done": true
   },
@@ -4463,6 +4495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-28 21:29:42 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-06-28 20:10:38 +0000"
@@ -4475,6 +4513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-28 21:28:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-28 20:59:40 +0000"
@@ -4484,6 +4528,12 @@
   "deeperdarker:recipes/building_blocks/soundproof_glass": {
     "criteria": {
       "has_soul_dust": "2025-06-28 20:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-28 21:29:42 +0000"
     },
     "done": true
   },
@@ -4520,6 +4570,18 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-06-28 20:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-28 21:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-28 21:26:01 +0000"
     },
     "done": true
   },
