@@ -33,3 +33,14 @@
 [29Jun2025 00:44:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
 [29Jun2025 00:45:35.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:54700] logged in with entity id 158861 at (-267.12695411693556, 69.0, 1143.2184485717898)
 [29Jun2025 00:45:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[29Jun2025 00:50:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Forlornliest Day of My Life]
+[29Jun2025 00:51:04.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Stone Age]
+[29Jun2025 00:51:09.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 00:52:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has reached the goal [Forlornliest Day of My Life]
+[29Jun2025 00:55:11.186] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 00:55:11.228] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 00:55:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Got Lamps?]
+[29Jun2025 00:56:11.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Knowledge of Death]
+[29Jun2025 00:56:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has reached the goal [Strong or Careful]
+[29Jun2025 00:56:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was doomed to fall by Zombie
+[29Jun2025 00:56:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to Misterchuwa]

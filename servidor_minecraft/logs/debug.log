@@ -9184,3 +9184,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 00:45:35.461] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [29Jun2025 00:45:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
 [29Jun2025 00:45:36.010] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751157935986
+[29Jun2025 00:47:01.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 00:47:01.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 00:50:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Forlornliest Day of My Life]
+[29Jun2025 00:51:04.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Stone Age]
+[29Jun2025 00:51:09.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 00:52:03.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 00:52:03.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 00:52:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has reached the goal [Forlornliest Day of My Life]
+[29Jun2025 00:54:41.138] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 6a44533d-ecba-3386-8cbf-21f814539cd0 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[29Jun2025 00:55:11.186] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 00:55:11.228] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 00:55:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Got Lamps?]
+[29Jun2025 00:56:11.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Knowledge of Death]
+[29Jun2025 00:56:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has reached the goal [Strong or Careful]
+[29Jun2025 00:56:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was doomed to fall by Zombie
+[29Jun2025 00:56:11.160] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:1213, y:-15, z:391, dim:minecraft:overworld]
+[29Jun2025 00:56:20.228] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158580208
+[29Jun2025 00:56:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to Misterchuwa]
