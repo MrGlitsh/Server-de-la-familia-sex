@@ -6299,5 +6299,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-06-29 05:49:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "ortholance": "2025-06-29 05:50:18 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
