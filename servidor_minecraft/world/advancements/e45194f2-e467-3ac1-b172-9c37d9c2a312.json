@@ -869,7 +869,8 @@
       "minecraft:wither_skeleton": "2025-06-23 05:21:09 +0000",
       "minecraft:husk": "2025-06-23 04:13:13 +0000",
       "minecraft:enderman": "2025-06-24 17:51:40 +0000",
-      "minecraft:zombie": "2025-06-23 05:26:24 +0000"
+      "minecraft:zombie": "2025-06-23 05:26:24 +0000",
+      "minecraft:drowned": "2025-06-29 17:28:05 +0000"
     },
     "done": false
   },
@@ -4227,6 +4228,24 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-06-25 02:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 17:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 17:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 17:28:07 +0000"
     },
     "done": true
   },
