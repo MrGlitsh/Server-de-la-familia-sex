@@ -6832,6 +6832,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2025-06-29 07:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
@@ -6900,6 +6906,7 @@
   },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
+      "shirt": "2025-06-29 07:08:14 +0000",
       "helmet": "2025-06-29 06:21:14 +0000",
       "boots": "2025-06-29 06:20:48 +0000"
     },
@@ -6944,6 +6951,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_weathered_cut_copper_slab": "2025-06-29 06:20:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2025-06-29 07:08:02 +0000"
     },
     "done": true
   },
