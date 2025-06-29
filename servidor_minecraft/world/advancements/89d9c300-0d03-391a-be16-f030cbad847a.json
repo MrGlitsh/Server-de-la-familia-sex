@@ -6056,6 +6056,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-06-29 01:04:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/resistor_shield": {
     "criteria": {
       "resistor_shield": "2025-06-28 22:22:53 +0000"
@@ -6488,6 +6494,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-06-29 01:03:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
@@ -6611,6 +6623,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-06-29 01:04:57 +0000"
     },
     "done": true
   },

@@ -5399,19 +5399,37 @@
     },
     "done": true
   },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-06-28 02:07:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-28 01:53:07 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-06-28 01:54:28 +0000"
+    },
+    "done": false
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-28 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-06-28 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-06-28 02:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-06-28 02:18:48 +0000"
     },
@@ -5423,29 +5441,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-06-28 02:18:48 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-06-28 01:54:41 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-06-28 03:24:01 +0000"
     },
     "done": true
-  },
-  "alexscaves:alexscaves/eat_radiation_foods": {
-    "criteria": {
-      "green_soylent": "2025-06-28 01:54:28 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
