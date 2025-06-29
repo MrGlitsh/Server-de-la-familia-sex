@@ -6305,6 +6305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-06-29 06:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-06-29 05:57:19 +0000"
@@ -6335,6 +6341,15 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-06-29 06:13:43 +0000",
+      "pants": "2025-06-29 06:13:44 +0000",
+      "helmet": "2025-06-29 06:20:48 +0000",
+      "boots": "2025-06-29 06:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-29 05:57:19 +0000"
@@ -6344,6 +6359,12 @@
   "alexscaves:alexscaves/mussel": {
     "criteria": {
       "mussel": "2025-06-29 05:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-06-29 06:18:23 +0000"
     },
     "done": true
   },
