@@ -782,3 +782,41 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Jun2025 22:58:39.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> no me tendras silenciado o algo ?
 [28Jun2025 23:00:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> yo me escucho ahi y tal
 [28Jun2025 23:00:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> sale la aureola verde
+[28Jun2025 23:26:28.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gmg18[/100.82.206.85:54284] logged in with entity id 123027 at (6.5, 86.0, 2.5)
+[28Jun2025 23:26:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
+[28Jun2025 23:26:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ?
+[28Jun2025 23:26:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> identificate en esta monda
+[28Jun2025 23:26:53.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Misterchuwa: callate estupido
+[28Jun2025 23:27:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [A Strange Grave Dust]
+[28Jun2025 23:27:04.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q tu buena perra
+[28Jun2025 23:27:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> es una multicuenta tuya jose?
+[28Jun2025 23:27:32.054] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[28Jun2025 23:27:32.056] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[28Jun2025 23:28:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was shot by Skeleton
+[28Jun2025 23:28:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Your First Grave]
+[28Jun2025 23:28:51.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[28Jun2025 23:28:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[28Jun2025 23:29:03.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ?
+[28Jun2025 23:29:08.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien es gmg maricon de jose
+[28Jun2025 23:35:05.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gmg18[/100.82.206.85:54399] logged in with entity id 126549 at (2.5, 87.0, -4.5)
+[28Jun2025 23:35:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
+[28Jun2025 23:37:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien sos
+[28Jun2025 23:40:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [It's an Emu!!!]
+[28Jun2025 23:41:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [We do a little trolling...]
+[28Jun2025 23:41:48.733] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[28Jun2025 23:41:48.759] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[28Jun2025 23:41:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Kangaroo
+[28Jun2025 23:42:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Alex's Mobs]
+[28Jun2025 23:43:46.297] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[28Jun2025 23:43:46.303] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[28Jun2025 23:44:04.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Zombie
+[28Jun2025 23:44:43.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[28Jun2025 23:44:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[28Jun2025 23:46:42.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 0.36601214324809916
+[28Jun2025 23:46:42.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 0.8686548377205554
+[28Jun2025 23:46:42.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Misterchuwa) moved wrongly! 1.3716707955447873
+[28Jun2025 23:48:37.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Magic Writing]
+[28Jun2025 23:51:07.509] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at 1399 -56 429 in 0s
+[28Jun2025 23:56:33.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gmg18[/100.82.206.85:62411] logged in with entity id 137451 at (40.98503998788534, 70.0, 78.09371648148327)
+[28Jun2025 23:56:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
+[28Jun2025 23:59:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Rusted Root]
