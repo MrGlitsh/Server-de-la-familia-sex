@@ -6092,6 +6092,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-06-29 01:38:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/lapis_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"

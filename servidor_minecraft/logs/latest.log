@@ -113,3 +113,17 @@
 [29Jun2025 01:33:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> dice q eres marisco tambien
 [29Jun2025 01:34:47.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
 [29Jun2025 01:34:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[29Jun2025 01:38:44.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Corrodon't]
+[29Jun2025 01:42:46.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[29Jun2025 01:42:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[29Jun2025 01:43:06.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[29Jun2025 01:44:29.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:61215] logged in with entity id 185385 at (-253.29874456686036, 65.0, 1167.5151226253015)
+[29Jun2025 01:44:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[29Jun2025 02:02:07.241] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 02:02:07.252] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 02:03:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was blown up by Creeper
+[29Jun2025 02:03:14.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -239.500000, 65.500000, 1163.500000]
+[29Jun2025 02:05:43.949] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 02:05:43.966] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 02:06:29.582] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 02:06:29.591] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
