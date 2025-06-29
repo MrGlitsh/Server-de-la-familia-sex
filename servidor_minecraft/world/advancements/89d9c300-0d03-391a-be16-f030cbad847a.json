@@ -6116,6 +6116,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-06-29 00:57:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
@@ -6188,6 +6194,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-06-29 00:55:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/copper_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
@@ -6239,6 +6251,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-06-29 00:59:04 +0000"
     },
     "done": true
   },
@@ -6371,6 +6389,12 @@
   "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-06-29 00:57:12 +0000"
     },
     "done": true
   },

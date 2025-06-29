@@ -9202,3 +9202,36 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 00:56:11.160] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:1213, y:-15, z:391, dim:minecraft:overworld]
 [29Jun2025 00:56:20.228] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158580208
 [29Jun2025 00:56:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to Misterchuwa]
+[29Jun2025 00:56:58.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[29Jun2025 00:56:58.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Forlornliest Day of My Life]
+[29Jun2025 00:57:01.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[29Jun2025 00:57:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[29Jun2025 00:57:03.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 00:57:03.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 00:57:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Hans Moleman]
+[29Jun2025 00:57:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Hans Moleman]
+[29Jun2025 00:57:20.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Knives Out]
+[29Jun2025 00:58:03.147] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 00:58:03.148] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 00:58:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Hans Moleman]
+[29Jun2025 00:58:34.176] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 00:58:34.181] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 00:58:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Misterchuwa
+[29Jun2025 00:58:45.346] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:1217, y:-21, z:393, dim:minecraft:overworld]
+[29Jun2025 00:58:45.348] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 00:58:46.967] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158726957
+[29Jun2025 00:59:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [That is One Big Pile of...]
+[29Jun2025 00:59:41.553] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 00:59:41.556] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 01:00:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to Misterchuwa]
+[29Jun2025 01:00:50.852] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158850828
+[29Jun2025 01:02:03.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:02:03.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:02:32.201] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158952200
+[29Jun2025 01:02:32.351] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158952338
+[29Jun2025 01:02:32.352] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158952338
+[29Jun2025 01:02:32.353] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158952338
+[29Jun2025 01:02:32.362] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751158952362
+[29Jun2025 01:03:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [This is my Boomstick]
+[29Jun2025 01:04:57.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Bug Repellent]
+[29Jun2025 01:04:58.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Chattering Teeth]
