@@ -48,6 +48,7 @@
       "minecraft:jagged_peaks": "2025-06-27 01:26:13 +0000",
       "minecraft:cold_ocean": "2025-06-26 20:59:07 +0000",
       "minecraft:forest": "2025-06-23 22:34:34 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-29 05:11:08 +0000",
       "minecraft:desert": "2025-06-23 03:58:44 +0000",
       "minecraft:jungle": "2025-06-25 02:30:56 +0000",
       "minecraft:ocean": "2025-06-26 03:58:35 +0000",
@@ -6283,6 +6284,18 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2025-06-29 01:56:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-29 05:14:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-29 05:21:59 +0000"
     },
     "done": true
   },

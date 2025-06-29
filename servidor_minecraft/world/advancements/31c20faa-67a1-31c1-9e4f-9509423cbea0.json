@@ -29,6 +29,7 @@
       "minecraft:deep_ocean": "2025-06-27 01:19:27 +0000",
       "minecraft:eroded_badlands": "2025-06-26 21:41:05 +0000",
       "minecraft:birch_forest": "2025-06-27 01:31:30 +0000",
+      "minecraft:wooded_badlands": "2025-06-29 04:52:05 +0000",
       "minecraft:badlands": "2025-06-24 02:16:31 +0000",
       "minecraft:savanna_plateau": "2025-06-25 03:47:10 +0000",
       "minecraft:beach": "2025-06-25 03:33:04 +0000",
@@ -5024,7 +5025,8 @@
   },
   "aether:obsidian_armor": {
     "criteria": {
-      "obsidian_boots": "2025-06-27 00:41:31 +0000"
+      "obsidian_boots": "2025-06-27 00:41:31 +0000",
+      "obsidian_leggings": "2025-06-29 05:04:09 +0000"
     },
     "done": false
   },
@@ -5502,21 +5504,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "dungeons_arise:find_thornborn_towers": {
     "criteria": {
-      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_gloves_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-06-29 04:39:41 +0000"
+      "location0": "2025-06-29 04:04:10 +0000"
     },
     "done": true
   },
@@ -5529,12 +5519,6 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 04:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-29 04:09:31 +0000"
     },
     "done": true
   },
@@ -5556,27 +5540,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 04:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
     },
     "done": true
   },
@@ -5610,9 +5576,69 @@
     },
     "done": true
   },
-  "dungeons_arise:find_thornborn_towers": {
+  "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
-      "location0": "2025-06-29 04:04:10 +0000"
+      "has_terracotta": "2025-06-29 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-29 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
     },
     "done": true
   },
@@ -5628,39 +5654,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 04:07:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/skyroot_pickaxe_repairing": {
-    "criteria": {
-      "has_skyroot_pickaxe": "2025-06-29 04:38:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-29 04:42:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_sword_repairing": {
-    "criteria": {
-      "has_golden_sword": "2025-06-29 04:41:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 04:07:53 +0000"
     },
     "done": true
   },
@@ -5682,27 +5678,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 04:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 04:07:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-29 04:29:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_terracotta": {
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
-      "has_terracotta": "2025-06-29 04:07:53 +0000"
+      "has_skyroot_pickaxe": "2025-06-29 04:38:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-06-29 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-06-29 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-29 04:42:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-29 04:56:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2025-06-29 04:56:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-06-29 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-06-29 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-06-29 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-29 05:06:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-29 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-06-29 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-29 05:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-06-29 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-29 05:13:28 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_leggings": "2025-06-29 05:22:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-29 05:22:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-06-29 05:22:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-29 05:24:07 +0000"
     },
     "done": true
   },
