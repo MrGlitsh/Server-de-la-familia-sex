@@ -584,3 +584,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 06:03:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Hoglin
 [29Jun2025 06:03:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh drowned whilst trying to escape Deep One Knight
 [29Jun2025 06:03:28.691] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:05:34.684] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 06:05:34.709] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:05:57.732] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[29Jun2025 06:05:57.754] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[29Jun2025 06:06:34.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by Deep One Knight
+[29Jun2025 06:06:46.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to 7276.500000, -54.500000, 5034.500000]
+[29Jun2025 06:06:57.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [Almost Unkillable]
+[29Jun2025 06:06:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Deep One Knight
+[29Jun2025 06:08:08.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Mutual Aid]
+[29Jun2025 06:09:16.909] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 06:09:16.947] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:09:18.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa
+[29Jun2025 06:09:18.659] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:09:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to 7278.500000, -51.500000, 5033.500000]
+[29Jun2025 06:12:02.101] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 06:12:02.117] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:12:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[29Jun2025 06:13:23.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[29Jun2025 06:14:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
