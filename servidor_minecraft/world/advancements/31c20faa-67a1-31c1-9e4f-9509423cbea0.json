@@ -5460,6 +5460,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-29 01:56:52 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-29 02:49:17 +0000"
@@ -5478,27 +5484,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-06-29 03:11:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-06-29 03:10:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_magic_tablet": "2025-06-29 03:20:05 +0000"
+      "has_diamond_backpack": "2025-06-29 03:11:09 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/iron_shovel_repairing": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "has_iron_shovel": "2025-06-29 01:56:52 +0000"
+      "has_magic_tablet": "2025-06-29 03:20:05 +0000"
     },
     "done": true
   },

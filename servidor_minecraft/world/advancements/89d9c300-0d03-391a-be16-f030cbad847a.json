@@ -6044,9 +6044,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
+      "has_red_terracotta": "2025-06-28 20:35:23 +0000"
     },
     "done": true
   },
@@ -6056,15 +6056,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "burrowing_arrow": "2025-06-29 01:04:58 +0000"
+      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "resistor_shield": "2025-06-28 22:22:53 +0000"
+      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
     },
     "done": true
   },
@@ -6077,90 +6095,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/gold_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_notor": {
-    "criteria": {
-      "killed": "2025-06-28 22:20:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-06-29 01:38:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/lapis_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/stone_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/desolate_dagger": {
-    "criteria": {
-      "desolate_dagger": "2025-06-29 00:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 21:02:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 22:27:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-28 22:35:22 +0000"
     },
     "done": true
   },
@@ -6182,33 +6116,256 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
+      "has_sign": "2025-06-28 20:41:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
     "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-28 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 20:44:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 20:44:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-06-28 20:57:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-28 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-28 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-06-28 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-06-28 21:40:27 +0000",
+      "azure": "2025-06-28 21:40:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-06-28 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-06-28 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-06-28 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 22:27:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-06-28 22:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-28 22:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-28 22:35:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2025-06-29 00:55:55 +0000"
     },
     "done": true
   },
@@ -6230,45 +6387,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/master_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 20:44:58 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-06-29 00:59:04 +0000"
     },
     "done": true
   },
@@ -6290,57 +6411,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-06-28 21:08:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-28 22:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_magnetron": {
-    "criteria": {
-      "killed": "2025-06-28 22:18:45 +0000"
     },
     "done": true
   },
@@ -6362,21 +6435,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "securitycraft:recipes/building_blocks/gravel_mine": {
     "criteria": {
-      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-06-29 00:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-29 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-29 00:49:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
     },
     "done": true
   },
@@ -6392,105 +6609,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/gravel_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-06-29 00:57:12 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 20:44:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/emerald_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-06-28 20:35:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/knowledge_wasted": {
-    "criteria": {
-      "coded_trigger": "2025-06-29 02:22:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/smoker_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-29 00:49:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 21:08:42 +0000"
     },
     "done": true
   },
@@ -6500,159 +6621,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-06-28 20:57:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_watcher": {
-    "criteria": {
-      "killed": "2025-06-29 01:03:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/wire_cutters": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "azure": "2025-06-28 22:29:00 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/netherrack_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/furnace_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-06-28 21:08:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2025-06-29 00:50:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/end_stone_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-28 20:41:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-06-28 21:36:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/dirt_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 00:49:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/nether_gold_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-06-28 21:08:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/moth_ball": {
-    "criteria": {
-      "moth_ball": "2025-06-29 01:04:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/diamond_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
     },
     "done": true
   },
@@ -6662,40 +6633,69 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-28 20:41:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/quartz_mine": {
-    "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-29 00:49:07 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/sand_mine": {
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
+      "discover": "2025-06-29 00:50:53 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/neodymium": {
+  "alexscaves:alexscaves/defeat_gloomoth": {
     "criteria": {
-      "scarlet": "2025-06-28 21:40:27 +0000",
-      "azure": "2025-06-28 21:40:54 +0000"
+      "killed": "2025-06-29 00:55:55 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+  "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
-      "has_mine": "2025-06-29 00:34:18 +0000"
+      "killed_by_underzealot": "2025-06-29 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-06-29 00:57:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-06-29 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-06-29 01:03:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-06-29 01:04:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-06-29 01:04:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-06-29 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2025-06-29 02:22:43 +0000"
     },
     "done": true
   },
