@@ -940,6 +940,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-24 22:54:18 +0000",
       "cooked_beef": "2025-06-24 23:14:36 +0000",
+      "apple": "2025-06-29 00:03:25 +0000",
       "bread": "2025-06-24 22:51:14 +0000"
     },
     "done": false
@@ -1777,6 +1778,7 @@
       "minecraft:skeleton": "2025-06-25 00:01:24 +0000",
       "minecraft:spider": "2025-06-24 23:48:48 +0000",
       "minecraft:husk": "2025-06-24 23:22:08 +0000",
+      "minecraft:enderman": "2025-06-29 00:12:09 +0000",
       "minecraft:zombie": "2025-06-24 23:21:06 +0000"
     },
     "done": false
@@ -2832,6 +2834,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-29 00:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-28 23:24:17 +0000"
@@ -2865,6 +2873,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-06-28 22:52:41 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-29 00:12:10 +0000"
     },
     "done": true
   },
