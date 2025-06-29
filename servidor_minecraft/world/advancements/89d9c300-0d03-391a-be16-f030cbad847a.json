@@ -6905,6 +6905,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-29 06:42:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
     "criteria": {
       "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
@@ -6922,6 +6928,12 @@
       "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-29 06:42:40 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/mussel": {
     "criteria": {

@@ -664,3 +664,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 06:42:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
 [29Jun2025 06:45:33.642] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [29Jun2025 06:45:33.646] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 06:51:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Buff Out Those Scratches]
+[29Jun2025 06:54:15.191] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 06:54:15.210] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 06:54:23.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Umvuthana Raptor
