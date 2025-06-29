@@ -6699,15 +6699,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-06-29 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-29 04:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-06-29 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-06-29 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-29 04:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-29 03:47:50 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-29 04:01:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-06-29 04:02:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-06-29 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-06-29 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-29 04:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-29 04:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-29 04:24:06 +0000"
     },
     "done": true
   },
