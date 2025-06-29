@@ -2948,3 +2948,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Jun2025 04:39:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [It's an Emu!!!]
 [29Jun2025 04:39:48.688] [Server thread/INFO] [Easy NPC/]: Opening menu 85dd08ff-35dd-4fd7-8aaa-9bb0fce5fdf3 for npc 5f327009-81f0-4946-9bb1-41f1c63280e6 and player ServerPlayer['JAGlitsh'/226209, l='ServerLevel[world]', x=-300.87, y=66.00, z=945.24] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Pipe]}]
 [29Jun2025 04:39:51.194] [Server thread/INFO] [Easy NPC/]: Opening menu cd925795-7799-4388-b87b-71a9e6c66712 for npc 5f327009-81f0-4946-9bb1-41f1c63280e6 and player ServerPlayer['JAGlitsh'/226209, l='ServerLevel[world]', x=-300.87, y=66.00, z=945.24] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pipe]}]
+[29Jun2025 04:41:10.434] [Server thread/INFO] [Easy NPC/]: Opening menu ef698961-a1c1-48a6-b8b6-6deadf5ce96f for npc 5f327009-81f0-4946-9bb1-41f1c63280e6 and player ServerPlayer['JAGlitsh'/226209, l='ServerLevel[world]', x=-298.26, y=66.00, z=946.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pipe]}]
+[29Jun2025 04:41:12.297] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Pipe'/259180, l='ServerLevel[world]', x=-298.53, y=66.00, z=944.91] requested by ServerPlayer['JAGlitsh'/226209, l='ServerLevel[world]', x=-298.26, y=66.00, z=946.12]
+[29Jun2025 04:41:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[29Jun2025 04:41:48.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[29Jun2025 04:41:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
+[29Jun2025 04:42:14.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[29Jun2025 04:42:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[29Jun2025 04:42:15.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[29Jun2025 04:44:13.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[29Jun2025 04:44:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[29Jun2025 04:45:04.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:56990] logged in with entity id 275790 at (365.68825286537844, -48.0, 1416.4100241069534)
+[29Jun2025 04:45:04.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[29Jun2025 04:48:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 04:48:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 04:48:49.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Server closed
+[29Jun2025 04:48:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[29Jun2025 04:48:49.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Server closed
+[29Jun2025 04:48:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[29Jun2025 04:48:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 04:48:50.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 04:48:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[29Jun2025 04:48:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 04:48:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 04:48:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[29Jun2025 04:48:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[29Jun2025 04:48:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Jun2025 04:48:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

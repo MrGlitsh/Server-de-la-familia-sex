@@ -5724,6 +5724,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-06-29 04:37:58 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-06-29 04:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-29 04:06:28 +0000"
