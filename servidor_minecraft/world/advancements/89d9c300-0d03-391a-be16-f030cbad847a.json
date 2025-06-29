@@ -6699,5 +6699,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-29 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-06-29 03:47:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
