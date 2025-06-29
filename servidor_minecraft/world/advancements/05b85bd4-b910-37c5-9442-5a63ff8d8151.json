@@ -6220,5 +6220,11 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks": {
+    "criteria": {
+      "has_slab": "2025-06-29 00:26:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
