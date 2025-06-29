@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-29 01:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-06-29 00:51:04 +0000"
@@ -1426,6 +1432,12 @@
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-06-29 00:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-29 01:21:12 +0000"
     },
     "done": true
   },

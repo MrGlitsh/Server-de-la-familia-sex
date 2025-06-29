@@ -74,3 +74,42 @@
 [29Jun2025 01:14:38.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:60605] logged in with entity id 172176 at (-250.45431041666635, 65.0, 1167.9129029248895)
 [29Jun2025 01:14:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
 [29Jun2025 01:14:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to 1256.500000, -31.500000, 429.500000]
+[29Jun2025 01:17:35.905] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 01:17:35.907] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 01:17:53.007] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 01:17:53.009] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 01:18:43.056] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 01:18:43.059] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 01:19:41.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Corrodon't]
+[29Jun2025 01:19:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Got Lamps?]
+[29Jun2025 01:21:03.665] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 01:21:03.668] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 01:24:06.543] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 01:24:06.555] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 01:27:52.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[29Jun2025 01:27:52.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[29Jun2025 01:27:55.479] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 01:27:55.488] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 01:28:33.239] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[29Jun2025 01:28:33.250] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[29Jun2025 01:28:42.545] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 01:28:42.555] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 01:29:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Vesper
+[29Jun2025 01:29:42.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by Vesper
+[29Jun2025 01:30:50.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> tpea a maria a ti o a mi pa q agarre su tumba
+[29Jun2025 01:31:07.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to JAGlitsh]
+[29Jun2025 01:31:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> wtf
+[29Jun2025 01:31:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q?
+[29Jun2025 01:31:45.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:60995] logged in with entity id 178714 at (-267.631881480241, 64.0, 1170.691849234368)
+[29Jun2025 01:31:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[29Jun2025 01:32:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported gmg18 to JAGlitsh]
+[29Jun2025 01:32:19.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> lol
+[29Jun2025 01:32:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> tp a maria a su tumba jose :v
+[29Jun2025 01:32:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> eso hago pero no aparece
+[29Jun2025 01:32:58.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Bug Repellent]
+[29Jun2025 01:33:19.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> esta muelta
+[29Jun2025 01:33:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> dice q va a dormir
+[29Jun2025 01:33:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> no hay manera
+[29Jun2025 01:33:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> dice q eres marisco tambien
+[29Jun2025 01:34:47.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[29Jun2025 01:34:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
