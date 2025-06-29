@@ -10355,3 +10355,80 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 03:12:03.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jun2025 03:17:03.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 03:17:03.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 03:19:37.898] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 03:19:37.900] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:19:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by CHUCHIXD
+[29Jun2025 03:19:43.955] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-249, y:65, z:1169, dim:minecraft:overworld]
+[29Jun2025 03:19:45.508] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167185505
+[29Jun2025 03:19:51.612] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Jun2025 03:20:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Where Is The Stone Pen?]
+[29Jun2025 03:20:10.280] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b5667d19-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Jun2025 03:20:31.194] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b5667d19-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[29Jun2025 03:20:51.197] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Jun2025 03:20:57.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:58.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:58.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:20:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:21:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:21:00.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gunpowder] to CHUCHIXD]
+[29Jun2025 03:21:09.386] [Netty Epoll Server IO #6/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@1aa852fd for service interface mezz.jei.common.platform.IPlatformHelper
+[29Jun2025 03:21:17.765] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=95a442de-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[29Jun2025 03:21:17.854] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 03:21:17.857] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 03:21:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by CHUCHIXD
+[29Jun2025 03:21:32.509] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-256, y:65, z:1174, dim:minecraft:overworld]
+[29Jun2025 03:21:32.514] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 03:21:45.261] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 03:21:45.263] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:21:58.046] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167318023
+[29Jun2025 03:22:03.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 03:22:03.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 03:22:16.507] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Jun2025 03:22:17.753] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=26, player=89d9c300-0d03-391a-be16-f030cbad847a}
+[29Jun2025 03:22:17.754] [Netty Epoll Server IO #7/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/145436, l='ServerLevel[world]', x=-255.50, y=65.00, z=1174.50] does not respect server-side emote tracking. Ignoring repeat
+[29Jun2025 03:22:49.849] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=95a442de-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[29Jun2025 03:22:52.549] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[29Jun2025 03:24:18.158] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=2, player=89d9c300-0d03-391a-be16-f030cbad847a}
+[29Jun2025 03:24:18.158] [Netty Epoll Server IO #7/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/145436, l='ServerLevel[world]', x=-254.99, y=65.00, z=1173.57] does not respect server-side emote tracking. Ignoring repeat
+[29Jun2025 03:25:31.002] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 03:25:31.005] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:25:36.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by CHUCHIXD
+[29Jun2025 03:25:36.212] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-261, y:65, z:1167, dim:minecraft:overworld]
+[29Jun2025 03:25:36.213] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:25:37.459] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=95a442de-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=54, player=31c20faa-67a1-31c1-9e4f-9509423cbea0}
+[29Jun2025 03:25:37.459] [Netty Epoll Server IO #7/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/145436, l='ServerLevel[world]', x=-254.99, y=65.00, z=1173.57] does not respect server-side emote tracking. Ignoring repeat
+[29Jun2025 03:25:37.483] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167537432
+[29Jun2025 03:25:42.987] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=95a442de-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[29Jun2025 03:25:57.007] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 03:25:57.010] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:26:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD walked into fire whilst fighting CHUCHIXD
+[29Jun2025 03:26:04.300] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-279, y:64, z:1149, dim:minecraft:overworld]
+[29Jun2025 03:26:04.302] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:26:05.651] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167565634
+[29Jun2025 03:26:28.298] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[29Jun2025 03:26:28.300] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[29Jun2025 03:26:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was shot by HEISENBERGXD
+[29Jun2025 03:26:35.080] [Server thread/DEBUG] [tombstone/]: A new grave of the player CHUCHIXD was created at position [x:-266, y:64, z:1166, dim:minecraft:overworld]
+[29Jun2025 03:26:35.084] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[29Jun2025 03:26:35.288] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167595264
+[29Jun2025 03:27:03.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 03:27:03.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 03:27:03.239] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 03:27:03.273] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 03:27:08.302] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 03:27:08.304] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:27:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by CHUCHIXD
+[29Jun2025 03:27:12.807] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-211, y:58, z:1166, dim:minecraft:overworld]
+[29Jun2025 03:27:12.809] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 03:27:14.076] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167634068
+[29Jun2025 03:28:12.803] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[29Jun2025 03:28:12.806] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 03:28:15.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by CHUCHIXD
+[29Jun2025 03:28:15.555] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-252, y:65, z:1170, dim:minecraft:overworld]
+[29Jun2025 03:28:15.558] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[29Jun2025 03:28:25.551] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751167705530
+[29Jun2025 03:28:39.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Discreet Search]

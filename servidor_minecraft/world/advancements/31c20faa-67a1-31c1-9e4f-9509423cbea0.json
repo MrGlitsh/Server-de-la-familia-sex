@@ -5490,6 +5490,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-29 03:20:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-06-29 01:56:52 +0000"
